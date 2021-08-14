@@ -40,4 +40,23 @@
 - Udruženje ostvaruje neposrednu saradnju sa srodnim udruženjima po pitanjima od zajedničkog interesa u cilju što uspešnijeg i potpunijeg ostvarivanja postavljenih ciljeva i zadataka u Republici Srbiji.
 - Udruženje će se povezivati sa školama, fakultetima, Ministarstvom prosvete i drugim organizacijama i institucijama. Povezivanje će se vršiti na planu učestvovanja u zajedničkim projektima, organizovanjem predavanja, radionica, stručnih tribina i okruglih stolova kao i stručnim usavršavanjem članova udruženja.
 
+### Članstvo udruženja
+
+- U okviru Udruženja mogu se formirati sekcije i timovi. Odluku o tome donosi Upravni odbor Udruženja. Svi timovi i sekcije su dužni da deluju u skladu sa Statutom i Programom Udruženja.
+- Svi timovi i sekcije su dužni da svoj program rada i izveštaj o radu dostave Upravnom odboru Udruženja na usvajanje. Sekcije i timovi nemaju posebna normativna akta. Odluke o delovanju sekcija i timova donose se isključivo na Upravnom odboru Udruženja. Upravni odbor ima pravo da ukine sekciju i tim koji ne radi u skladu sa Statutom i odlukama Upravnog odbora Udruženja.
+- Član Udruženja može biti svako punoletno lice, ili mlađe lice uz saglasnost roditelja ili staraoca koje prihvata ciljeve i Statut udruženja.
+- Učlanjenje u Udruženje zasniva se na načelu zajedničkih interesa i na toj osnovi uređuju se međusobni odnosi i obezbeđuje ravnopravnost u odlučivanju.
+- Članstvo se stiče potpisivanjem pristupnice. Član može istupiti iz članstva davanjem pismene izjave o istupanju. Članstvo u Udruženju može prestati zbog duže neaktivnosti člana, nepoštovanja odredaba ovog Statuta ili narušavanja ugleda Udruženja. Odluku o prestanku članstva donosi Skupština, na obrazloženi predlog Upravnog odbora.
+
+### ORGANI UDRUŽENjA
+
+- Organi Udruženja su: Skupština, Upravni odbor i Nadzorni odbor.
+- Funkciju zastupnika vrši Predsednik Upravnog odbora, a u njegovom odsustvu Potpredsednik Upravnog odbora. Predsednik Upravnog odbora zastupa Udruženje u pravnom prometu sa trećim licima i ima prava i dužnosti finansijskog nalogodavca.
+- Skupštinu Udruženja čine svi članovi udruženja. Skupština se redovno sastaje jednom godišnje. Vanredna sednica Skupštine može se zakazati na obrazloženi predlog Upravnog odbora, kao i na pismenu inicijativu najmanje jedne trećine predstavnika članstva. Skupštinom predsedava i vodi je predsednik Skupštine - član Udruženja koji je na početku, javnim glasanjem, izabran. Odluke donete na Skupštini obavezujuće su za članove Udruženja.
+
+### Detaljnije
+
+- https://antistereotip.net/statut.html
+
+
 
