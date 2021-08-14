@@ -48,7 +48,7 @@
 - Učlanjenje u Udruženje zasniva se na načelu zajedničkih interesa i na toj osnovi uređuju se međusobni odnosi i obezbeđuje ravnopravnost u odlučivanju.
 - Članstvo se stiče potpisivanjem pristupnice. Član može istupiti iz članstva davanjem pismene izjave o istupanju. Članstvo u Udruženju može prestati zbog duže neaktivnosti člana, nepoštovanja odredaba ovog Statuta ili narušavanja ugleda Udruženja. Odluku o prestanku članstva donosi Skupština, na obrazloženi predlog Upravnog odbora.
 
-### ORGANI UDRUŽENjA
+### Organi udruženja
 
 - Organi Udruženja su: Skupština, Upravni odbor i Nadzorni odbor.
 - Funkciju zastupnika vrši Predsednik Upravnog odbora, a u njegovom odsustvu Potpredsednik Upravnog odbora. Predsednik Upravnog odbora zastupa Udruženje u pravnom prometu sa trećim licima i ima prava i dužnosti finansijskog nalogodavca.
