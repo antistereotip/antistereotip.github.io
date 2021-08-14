@@ -33,4 +33,11 @@
 - prevencija širenja negativnih društvenih pojava, zavisnosti od poroka i društveno neprihvatljivih oblika ponašanja;
 - prevencija, pomoć i zaštita oblicima dečije pornografije (pedofilije) i trafikinga (trgovina ljudima);
 
+#### Naziv Udruženja na engleskom jeziku: Association for free informatics education and social responsibility projects Antistereotip.
+
+- Udruženje građana za besplatnu informatičku edukaciju i društveno odgovorne projekte Antistereotip može se udruživati sa drugim udruženjima, društvima, savezima i slično, radi ostvarivanja zajedničkih ciljeva.
+- Udruženje može biti član srodnih međunarodne organizacije ili udruženja građana, ako se to ne protivi interesima Republike Srbije, a u skladu sa dogovorom o koordinaciji međunarodne saradnje društvenih organizacija i udruženja građana u Republici Srbiji.
+- Udruženje ostvaruje neposrednu saradnju sa srodnim udruženjima po pitanjima od zajedničkog interesa u cilju što uspešnijeg i potpunijeg ostvarivanja postavljenih ciljeva i zadataka u Republici Srbiji.
+- Udruženje će se povezivati sa školama, fakultetima, Ministarstvom prosvete i drugim organizacijama i institucijama. Povezivanje će se vršiti na planu učestvovanja u zajedničkim projektima, organizovanjem predavanja, radionica, stručnih tribina i okruglih stolova kao i stručnim usavršavanjem članova udruženja.
+
 
