@@ -8,6 +8,10 @@
   <img src="https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/antistereotiplogo.png" width="200"/>
 </p>
 
+### Cilj udruženja
+
+> Nije znanje znanje znati, već je znanje znanje dati. "J.J.Zmaj"
+
 - Udruženje građana za besplatnu informatičku edukaciju i društveno odgovorne projekte Antistereotip (u daljem tekstu: Udruženje) je dobrovoljno, nevladino i neprofitabilno, nestranačko udruženje, osnovano na neodređeno vreme radi ostvarivanja ciljeva u oblasti besplatne informatičke edukacije socijalno ugrožene omladine i dece, sprovođenja društveno odgovornih projekata, rada sa marginalizovanim grupama stanovništva i pomoći zavisnicima, kao i žrtvama trafiking-a.
 
 ### Detaljno iskazani ciljevi i načini ostvarivanja ciljeva Udruženja su:
@@ -31,6 +35,4 @@
 - prevencija širenja negativnih društvenih pojava, zavisnosti od poroka i društveno neprihvatljivih oblika ponašanja;
 - prevencija, pomoć i zaštita oblicima dečije pornografije (pedofilije) i trafikinga (trgovina ljudima);
 
-### Cilj udruženja
 
-> Nije znanje znanje znati, već je znanje znanje dati. "J.J.Zmaj"
