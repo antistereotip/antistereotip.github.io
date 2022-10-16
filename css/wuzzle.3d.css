@@ -194,9 +194,9 @@ color: #fff;
 	float: left;
 	border-bottom: 1px solid #fff;
 	margin-bottom: 2%;
--moz-box-shadow: inset 3px 4px 33px 10px #222;
--webkit-box-shadow: inset 3px 4px 33px 10px #222;
-box-shadow: inset 3px 4px 33px 10px #111;
+-moz-box-shadow: inset 3px 4px 33px 10px #000;
+-webkit-box-shadow: inset 3px 4px 33px 10px #000;
+box-shadow: inset 3px 4px 33px 10px #000;
 }
     .controls > div {
       margin-bottom: 10px;
