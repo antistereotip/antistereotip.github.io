@@ -1,7 +1,7 @@
 
 
 a {
-color: #3B95C6;
+color: #fff;
 text-decoration: underline;
 -moz-transition: color .2s ease-in-out;
 -webkit-transition: color .2s ease-in-out;
@@ -10,7 +10,7 @@ text-decoration: underline;
 transition: color .2s ease-in-out;
 }
 a:hover {
-color: #1B75A6 !important;
+color: yellow !important;
 }
 .button:before {
 content: '';
