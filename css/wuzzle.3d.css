@@ -183,7 +183,7 @@ padding: 1px 20px;
 border: 1px solid #fff;
 -webkit-border-radius: 0px;
 background-color: rgba(73, 73, 73, 0.23);
-color: rgb(255, 179, 179);
+color: #fff;
 }
 
 .controls code {
@@ -194,9 +194,9 @@ color: rgb(255, 179, 179);
 	float: left;
 	border-bottom: 1px solid #fff;
 	margin-bottom: 2%;
--moz-box-shadow: inset 3px 4px 33px 10px #5D5555;
--webkit-box-shadow: inset 3px 4px 33px 10px #5D5555;
-box-shadow: inset 3px 4px 33px 10px #5D5555;
+-moz-box-shadow: inset 3px 4px 33px 10px #fff;
+-webkit-box-shadow: inset 3px 4px 33px 10px #fff;
+box-shadow: inset 3px 4px 33px 10px #fff;
 }
     .controls > div {
       margin-bottom: 10px;
