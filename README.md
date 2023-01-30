@@ -60,7 +60,7 @@
 
 ### Molimo pogledajte "Plan B"
 
-- https://github.com/antistereotip/antistereotip.github.io/blob/master/Antistereotip-Plan-B.pdf
+- https://github.com/antistereotip/antistereotip/blob/master/Antistereotip-Plan-B.pdf
 
 
 
