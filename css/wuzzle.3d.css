@@ -3,10 +3,12 @@ body {
       color: white;
        font-family:'Open Sans Condensed','Arial Narrow',arial,verdana,trebuchet,sans-serif;
       font-size: 14px;
-      /* background-image:url(../data/pics/jpg/art9.jpg);
+	/* */
+      background-image:url(../data/pics/jpg/art9.jpg);
      background-repeat: no-repeat;
      background-position: center; 
-     background-attachment: fixed; */
+     background-attachment: fixed;
+	/* */
      background-image: -webkit-gradient(radial,
                             50% 500, 1,
                             50% 500, 400,
