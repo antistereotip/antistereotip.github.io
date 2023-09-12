@@ -8,6 +8,8 @@ body {
      background-repeat: no-repeat;
      background-position: center; 
      background-attachment: fixed;
+     background-size: 900px 500px;
+     /* */
      /* 
      background-image: -webkit-gradient(radial,
                             50% 500, 1,
