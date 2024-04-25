@@ -19,7 +19,6 @@
 #### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
 LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
-<a href="https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2" title="HKOJ MI TO K**** ZNAMO">KOJ MI TO K**** ZNAMO</a>
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
