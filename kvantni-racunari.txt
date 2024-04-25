@@ -159,7 +159,7 @@ E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilaci
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-KVANTNA MEHANIKA
+Kvantna mašina
 
 Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
 Tip mašina za koju se vezuju velike nade u nastupajućoj eri tehnologije u čujem će se centru sutra nalaziti. Mašine koje će nuditi toliku količinu računarske 
