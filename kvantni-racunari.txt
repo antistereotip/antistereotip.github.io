@@ -133,6 +133,14 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Modulacija i frekventi kvanti modulatori:
+Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
+frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
+na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
+i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
 napredak za čovečanstvo. FULLSTOP.
