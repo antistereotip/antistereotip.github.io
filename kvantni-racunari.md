@@ -11,11 +11,11 @@
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### SUPERKOMPJUTERI I KJUBIT, RAČUNARI SA VISOKIM PERFORMANSAMA I OGROMNIM BRZIM PRORAČUNIMA.
+#### SUPERKOMPJUTERI I KJUBIT, RAČUNARI SA VISOKIM PERFORMANSAMA I OGROMNIM BRZIM PRORAČUNIMA.
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
+#### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
 LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
