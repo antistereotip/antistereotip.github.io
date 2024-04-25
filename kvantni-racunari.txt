@@ -181,7 +181,7 @@ frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i sign
 na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
 i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna modulacija u kvantim 
 računarima ?
-Link obične modulacije - SLIKA U GIF FORMATU: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
+LINK: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
 E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
 *talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) NASTAVIĆE SE ... 
 
