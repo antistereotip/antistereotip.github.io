@@ -275,4 +275,4 @@ mora NASTAVITI ...
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
 napredak za čovečanstvo. Ovo se može desiti samo ukoliko se kvantni računari upotrebe u dobre svrhe. FULLSTOP.
 
-> FULLSTOP !!!
+## FULLSTOP !!!
