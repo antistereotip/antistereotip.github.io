@@ -1,7 +1,7 @@
-> #### The quarterly results look great!
+> #### Qbit!
 >
-> - Uvod.
-> - Razrada.
+> - Svojstva kjubita.
+> - Kvantni računari.
 >
 >  *Sve* što trebate znati o **kjubitu**.
 
