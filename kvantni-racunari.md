@@ -9,17 +9,17 @@
 
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### SUPERKOMPJUTERI I KJUBIT, RAČUNARI SA VISOKIM PERFORMANSAMA I OGROMNIM BRZIM PRORAČUNIMA.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
 LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNI RAČUNARI
 
@@ -33,7 +33,7 @@ zahtevanje te informacije koju je kvantni računar obradio, mi zapravo dobijamo 
 i zato što ljudski mozak i telo nisu spremni ili naviknuti na stanje superpozicije čestice. Za ovaj fenomen može se razumljivo reći da je u pitanju 
 stidljivost samog kjubita..
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNI SPIN:
 
@@ -44,7 +44,7 @@ istovremeno (n qbit – 2 na n stanja). Mogućnosti ovih računara su prevelike 
 od klasičnih računara. Jedan od primera je Šorov kvantni algoritam koj je možda i najbrži način za faktorisanje brojeva i on bi bez ikakvih problema 
 razbio svaku RSA šifru koja je danas u upotrebi. Otprilike, kvantni računar bi razotkrio sve tajne ovoga sveta za samo dvadeset minuta.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### PRIMER FAKTORISANJA BROJEVA:
 
@@ -53,8 +53,7 @@ pomnože daju originalni broj. Primer gde je prvi kvantni računar fatktorisao b
 u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo gde bi klasičnom računaru trebalo previše svetlosnih godina, kvantni računari 
 će biti produktivni u samo 20 minuta.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
-
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 #### OPERACIJE BITA I KJUBITA.
 
 Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
@@ -70,12 +69,12 @@ odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvol
 mnogo kompleksu operaciju koju bi bit proceduralno rešavao. Ovo nam govori da će kvantni bit zapravo rešavati svaku našu zamisao u apstraktnom smislu dok god 
 ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će biti ili nula ili jedinica kao konačna vrednost.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da 
 pojasnimo šta se tu zapravo dešava.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### MAKSVELOV DEMON
 
@@ -94,7 +93,7 @@ premešta u posudu gde su sporije čestice. Time se dobija veća temperatura u p
 temperatura. Ovim postupkom smo narušili prvi zakon termodinamike jer takav zakon govori da telo koje ima manju temperaturu ako se nađe pored tela koje 
 ima veću temperaturu, između njih će doći do razmene energije (Toplije će grejati hladnije). U ovom slučaju dešava se paradoks Maksvelovog demona.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### REVERSIBILNOST I IREVERSIBILNOST
 
@@ -112,7 +111,7 @@ zapisao i uradio kako treba i prkosio zakonu termodinamike, a želeo da vrati sv
 termodinamički zakon, on bi morao po svesci da svaku česticu redom vrati na svoje mesto i da nastavi sa posmatranjem. Kao rezltat, dobio bi reversibilni 
 proces u pospunosti i tu je zapravo moć kvante fizike.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### ŠERDINGEROVA MAČKA
 
@@ -129,7 +128,7 @@ gubi kvantno svojstvo ukoliko je mačka mrtva ili živa. Izloženost radijaciji 
 Od čega to zavisi ? Od posmatranja. Kao što smo rekli, kjubit je vrlo stidljiva čestica. NE voli da se posmatra. Stoga mačka je i dalje živa ili mrtva. 
 I tu više nema paradoxa.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### PPROCESIBILNE BRZE I SPORE ČESTICE.
 
@@ -146,7 +145,7 @@ teleportovati. To bi značilo da brzina svetlosti bi bila zanemarljiva u odnosu 
 raširiti snop. U tom slučaju kvarkovi, kristal i leptoni imaju svojstvo tolikok širenja samog fotona da se dobija sferno kućište. Oba fotona imaju svoju namenu, 
 foton je brži dok je antifoton dimenzionalniji i sporiji. Kod sporijeg fotona atom je bukvano deljiv. Tu je paradox brže i sporije čestice.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### TAJNE DUBOKIH, MRAČNIH, KVANTNIH RAČUNARA, PROSTORA ISPOD VIDLJIVOG WEBA:
 
@@ -168,7 +167,7 @@ to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti 
 ali imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o 
 ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNA SVOJSTVA NISKIH I VISOKIH STRUJA.
 
@@ -179,7 +178,7 @@ crvena - Napon - Crna - Masa. Žice su vezane na akumulator. Kako bih proverio n
 Sve što sam osetio je blagi udar struje koji je čak i prijatan za ljudsko telo. Drugi primer: Direktno na akumulator sam stavio debelu žicu i izmerio 
 instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu zapravo dešava ? Atom traži prostor. NASTAVIĆE SE ...
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### MODULACIJA I FREKVENTNI KVANTNI MODULATORI:
 
@@ -205,7 +204,7 @@ mrežnim modulatorom manje osetljivosti, ali veće procesuirane snage jer je WiM
 Tu je potrebno raspršivanje svetla većim naponom. Tu dolazi na snagu foton i njegova raspšljivost. to su samo neki primeri kvantnih svojstava prenošenja 
 svetla kvantnim putem.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
@@ -223,7 +222,7 @@ na tačnom naponu bez odstupanja, da bi sve radilo kako treba. Oprema koja se ko
 radi kako treba, ovo je jedan od najsigurnijih protokola u kvantnim dejstvima. Upotreba u pametnim kućama, samog kjubita će doneti revoluciju sa IPv7 
 protokolom (Protokol brisanog prostora putem lasera), koji će korisiti kjubit za kontrolisanje pametnih kuća.
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNA MAŠINA.
 
@@ -266,7 +265,7 @@ Više ne možemo zaustaviti veštačku inteligenciju. Kada AI bude počela da se
 Isto tako, veštačka inteligencija će dati algoritme kvantim računarima, da bi poboljšali superpoziciju AI u polju kjubita. Ovo je jako opširna tema pa se
 mora NASTAVITI ...
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### ZAKLJUČAK:
 
