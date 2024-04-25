@@ -137,6 +137,16 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Kvantna svojstva niskih i visokih struja.
+Primer Akumulatora na 12 V: Tanke žice prenose napon koji je čoveku bezbedan za organizam bez strujnih posledica. Ali probajte da stavite žicu velikog obima 
+i promeniće se voltaža sa 12 V na nešto što je baš i nepodnošljivo za ljudski organizam. Šta se tu dešava ? U pitanju je velika probojnost malog napona.
+Evo jednog primera u satelitskoj pratnji vozila koje sam lično iskusio: Jednom prilikom sam zaboravio unimer. Postoje u osnovi 3 žice - bela-kontakt -
+crvena - Napon - Crna - Masa. Žice su vezane na akumulator. Kako bih proverio napon žica, uhvatio sam presečen kraj crvene žice i presečen kraj crne žice. 
+Sve što sam osetio je blagi udar struje koji je čak i prijatan za ljudsko telo. Drugi primer: Direktno na akumulator sam stavio debelu žicu i izmerio 
+instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu zapravo dešava ? Atom traži prostor. NASTAVIĆE SE ...
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Modulacija i frekventni kvantni modulatori:
 Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
 frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
