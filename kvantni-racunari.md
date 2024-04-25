@@ -3,7 +3,7 @@
 > - Svojstva kjubita.
 > - Kvantni računari.
 >
->  *Sve* što trebate znati o **kjubitu**.
+>  *Sve što trebate znati o* **kjubitu**.
 
 ### KVANTNA SVOJSTVA (QBIT)
 
