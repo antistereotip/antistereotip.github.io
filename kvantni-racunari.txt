@@ -1,3 +1,9 @@
+KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
+
+LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 KVANTNI RAČUNARI
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -13,6 +19,8 @@ i zato što ljudski mozak i telo nisu spremni ili naviknuti na stanje superpozic
 stidljivost samog kjubita..
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+KVANTNI SPIN:
 
 Veoma bitna odlika kvantnog računara je osobina elektrona koja se naziva spin. Spin je osobina elektorna koja omogućava da se isti vrti oko svoje ose. 
 To kjubitu daje multidimenzionalnost kada se čestica nađe u superpoziciji. Prema binarnoj logici određena su dva stanja, tačnije smera spina i to suprotna, 
@@ -32,6 +40,8 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+OPERACIJE BITA I KJUBITA.
+
 Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
@@ -44,8 +54,6 @@ i uraditi sa drugim brojevima (i od njih će napraviti apstraktni niz) i umesto 
 odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvoliće prvom nizu da se pomnoži sa drugim i faktički će u jednoj operaciji odraditi 
 mnogo kompleksu operaciju koju bi bit proceduralno rešavao. Ovo nam govori da će kvantni bit zapravo rešavati svaku našu zamisao u apstraktnom smislu dok god 
 ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će biti ili nula ili jedinica kao konačna vrednost.
-
---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da 
 pojasnimo šta se tu zapravo dešava.
@@ -157,7 +165,7 @@ frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i sign
 na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
 i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna modulacija u kvantim 
 računarima ?
-Link obične modulacije - Slika u gif formatu: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
+Link obične modulacije - SLIKA U GIF FORMATU: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
 E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
 *talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) NASTAVIĆE SE ... 
 
