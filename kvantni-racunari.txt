@@ -159,6 +159,19 @@ E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilaci
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+KVANTNA MEHANIKA
+
+Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
+Tip mašina za koju se vezuju velike nade u nastupajućoj eri tehnologije u čujem će se centru sutra nalaziti. Mašine koje će nuditi toliku količinu računarske 
+snage da će gotovo kao nikada do sada dovesti do revolucije u načinu kako naše živote živimo, ali i kakva ćemo dalja očekivanja imati. Baš zato na kvantne 
+računare ne možemo gledati kao na standardne superkompjutere današnjice, jer oni to nikako nisu, već nešto posve drugačije… Moraćemo da uronimo u jednu drugu, minijaturnu, dimenziju ove još uvek strane tehnologije ljudskom umu ali i u ono kako danas shvatamo funkcionisanje standardnih računarskih sistema baziranih, pre svega, na intuitivnom razumevanju tehnologije, jer kvantna tehnologija upravo i počiva na suprotnosti ovom stanovištu: na subatomskom svetu kvantne mehanike gde je sve moguće.
+- Gde je sve verovatno.
+Osamdesetih godina dvadesetog veka jedan od najvažnijih fizičara epohe Ričard Fajnman (Richard Feynman) naišao je na veliki problem u svojim gotovo pionirskim pokušajima da odškrine prozor ka revolucionarnoj ideji kvantne fizike koja je već počela da nagovešatava neverovatne mogućnosti skrivene u istoj. Problem je bio što je Fajman odmah na početku uvideo da su kvantni sistemi po svojoj prirodi izuzetno ranjivi kada ih posmatramo iz naše makro perspektive postojanja, te su informacije u njima skladištene skrivene od naše spoznajne svesnosti na jedan dublji, meta-sofisticirani način. Upravo zbog toga mi nismo u mogućnosti da direktno opažamo kvantne događaje – baš one koje je on želeo eksperimentalno da simulira. Tada je shvatio da postojeći računarski sistemi u ovom domenu nemaju ni približno dovojno snage za ono njemu potrebno, jer čim je počeo s dodavanjem prvih virtuelnih čestica u simulirani kvantni sistem odmah je uvideo dâ cena njihove potencijalne simulacije postaje astronomska i to u bukvalnom smislu te reči – jer sa svakim dodavanjem novih čestica u sistem potrebna računarska snaga postojećih procesora, baziranih na bitovima, počela je eksponencijalno da raste i vrlo brzo je postalo kristalno jasno da tu klasični računari nemaju šta da traže. Postaju skoro pa neupotrebljivi, zatrpani računskim zahtevima s kojima nikako ne mogu izaći na kraj u razumnim vremenskim okvirima. Jednostavno, nisu dovoljno optimizovani da isprate takav jedan brzo rastući nivo sistemske kompleksnosti kvantnih kalkulacija koje su u ovom slučaju neophodne, jer cilj nikako nije puko oponašanje kvantnih fenomena standardnim proračunskim metodama, poput rešavanja Šredingerove jednačine (Schrödinger equation), već je ideja bazirana na izgradnji sistema koji će raditi po principu kvantnih operacija na isti način kako se oni u prirodi opažaju i beleže.
+
+Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
 napredak za čovečanstvo. FULLSTOP.
