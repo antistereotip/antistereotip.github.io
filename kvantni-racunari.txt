@@ -133,15 +133,7 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Modulacija i frekventni kvantni modulatori:
-Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
-frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
-na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
-i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna modulacija u kvantim 
-računarima ?
-Link obične modulacije - Slika u gif formatu: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
-E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
-*talasanja* u kjubitu.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
