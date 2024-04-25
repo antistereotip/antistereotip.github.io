@@ -1,3 +1,9 @@
+> #### The quarterly results look great!
+>
+> - Uvod.
+> - Razrada.
+>
+>  *Sve* što trebate znati o **kjubitu**.
 
 ### KVANTNA SVOJSTVA (QBIT)
 
