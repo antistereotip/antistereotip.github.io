@@ -5,7 +5,7 @@
 > - Kvantna mehanika.
 > - Kvantna fizika.
 >
->  *Sve što trebate znati o* **kjubitu**.
+>  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
