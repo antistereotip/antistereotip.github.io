@@ -24,7 +24,7 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
 #### KVANTNI RAČUNARI
 
-Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna 
+> - Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna 
 informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije 
 i druga kvantna svojstva za operaciju nad informacijama. To znači da kjubit može imati više stanja nule i jedinice (0, 1, 01, 00, 10, 11), jer svaki od tih stanja 
 se može nalaziti u superpoziciji, što kjubitu daje multidimenzionalnost. Zanimljivo kod kvantnog bita je zapravo to da on može imati moguće stanje 
@@ -38,7 +38,7 @@ stidljivost samog kjubita..
 
 #### KVANTNI SPIN:
 
-Veoma bitna odlika kvantnog računara je osobina elektrona koja se naziva spin. Spin je osobina elektorna koja omogućava da se isti vrti oko svoje ose. 
+> - Veoma bitna odlika kvantnog računara je osobina elektrona koja se naziva spin. Spin je osobina elektorna koja omogućava da se isti vrti oko svoje ose. 
 To kjubitu daje multidimenzionalnost kada se čestica nađe u superpoziciji. Prema binarnoj logici određena su dva stanja, tačnije smera spina i to suprotna, 
 gde je jedan nula a drugi jedinica. Uz pomoć spina možemo kreirati kompjutersku memoriju. Kvantni računar koj ima 500 kjubita može imati 2 na 500 stanja 
 istovremeno (n qbit – 2 na n stanja). Mogućnosti ovih računara su prevelike i najsloženije matematičke probleme mogu rešiti mnogo brzo. Neuporedivo brže 
@@ -49,7 +49,7 @@ razbio svaku RSA šifru koja je danas u upotrebi. Otprilike, kvantni računar bi
 
 #### PRIMER FAKTORISANJA BROJEVA:
 
-Faktorisanje je u matematici razlaganje nekog objekta (broja, polinoma ili matrice) u produkt nekih drugih objekata, ili faktora, koji kada se međusobno 
+> - Faktorisanje je u matematici razlaganje nekog objekta (broja, polinoma ili matrice) u produkt nekih drugih objekata, ili faktora, koji kada se međusobno 
 pomnože daju originalni broj. Primer gde je prvi kvantni računar fatktorisao broj 15 u oblik 3 x 5 i to je bio prvi zadatak koji je jedan kvantni računar 
 u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo gde bi klasičnom računaru trebalo previše svetlosnih godina, kvantni računari 
 će biti produktivni u samo 20 minuta.
@@ -57,7 +57,7 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 #### OPERACIJE BITA I KJUBITA.
 
-Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
+> - Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
 računara operacije se dešavaju standardnim procedurama, dok kvantni računar istu operaciju rešava iz superpozicije. Kako to ? Uzećemo brojeve 1, 2, 3, 4, 5 i 
@@ -72,14 +72,14 @@ ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će bi
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
-Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da 
+> - Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da 
 pojasnimo šta se tu zapravo dešava.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### MAKSVELOV DEMON
 
-Moguće stanje kvantnog bita je definisano spinovima, superpozicijom i mešanjem kjubita. Imamo spin (gore, dole) – smer. Imamo superpoziciju 
+> - Moguće stanje kvantnog bita je definisano spinovima, superpozicijom i mešanjem kjubita. Imamo spin (gore, dole) – smer. Imamo superpoziciju 
 (0, 1, 0, 01, 00, 10, 11) i imamo mešanje (gore 1, 0, 01, 00, 10, 11) (i) (dole, 1, 0, 01, 00, 10, 11). Ovo je najprostija postavka kjubita. 
 Sad sve ovo što vidite uzmite i promešajte u svim mogućim smerovima i dimenzijama i dobićete kvantni bit u superpoziciji kao rezultat. Ono što se 
 desilo je to da kvantni bit može biti bilo koja vrednost koja postoji u prostoru i vremenu (kao moguće stanje). Ovo znači da su pravila kvantne 
