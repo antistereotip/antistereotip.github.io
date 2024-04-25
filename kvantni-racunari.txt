@@ -101,6 +101,7 @@ I tu više nema paradoxa.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Procesibilne breze i spore čestice:
+
 Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
 generalno *materijalne čestice* i *antimaterijske čestice*. U sledeću kategopriju možemo svrstati *fotone* i *antifotone*. O ostalim svojstvima čestica 
 nećemo pisati u ovom poglavlju. Primer: Laser koji radi na 3.3 V on potiskuje foton na usmerenost snopa u milimetar. Zatim imamo antifoton koji se stavlja na 5 V 
@@ -116,15 +117,20 @@ antifoton dimenzionalniji i sporiji. Kod sporijeg fotona atom je bukvano deljiv.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Tajne kvantih računara:
+Tajne kvantih računara i dubokih i mračnih prostora ispod vidljivog interneta:
+
 Postoji nekoliko nivoa vidljivog i nevidljivog weba:
+
 1. Prvi nivo Weba je vidljiv ljudima kroz obično surfvanje.
+
 2. Sledeći web nivo je Deep Web. Surfovanje bez dubljih ograničenja, primeri su (hiddenwiki linkovi kao i .onion stranice raznolikih karaktera). 
 Pristupa mu se Torom. Uglavnom se sve plaća Bitcoinima. Postoji trgovanje drogom, oružjem, hakerskim uslugama, pedofilije itd. Potrebno za veću 
 bezbednost je i neki VPN.
+
 3. Još dublji nivo weba je Dark web. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
 postoje i još mnogo .onion linkova koji vode u užasne scene koje ne postoje ni u ljudskoj mašti.). Potreban je visok nivo zaštite. Od VPN, Tora, 
 Enkripcije, Modova, Botova. Botneta (reversibilni procesi) itd.
+
 4. A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je Marijana Web. Tamo ne postoje ograničenja. Tamo je pakao na zemlji. 
 Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
@@ -138,6 +144,7 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Kvantna svojstva niskih i visokih struja.
+
 Primer Akumulatora na 12 V: Tanke žice prenose napon koji je čoveku bezbedan za organizam bez strujnih posledica. Ali probajte da stavite žicu velikog obima 
 i promeniće se voltaža sa 12 V na nešto što je baš i nepodnošljivo za ljudski organizam. Šta se tu dešava ? U pitanju je velika probojnost malog napona.
 Evo jednog primera u satelitskoj pratnji vozila koje sam lično iskusio: Jednom prilikom sam zaboravio unimer. Postoje u osnovi 3 žice - bela-kontakt -
@@ -148,6 +155,7 @@ instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu z
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Modulacija i frekventni kvantni modulatori:
+
 Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
 frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
 na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
@@ -159,7 +167,7 @@ E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilaci
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Kvantna mašina
+Kvantna mašina.
 
 Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
 Tip mašina za koju se vezuju velike nade u nastupajućoj eri tehnologije u čujem će se centru sutra nalaziti. Mašine koje će nuditi toliku količinu računarske 
@@ -172,6 +180,8 @@ Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
+Zaključak:
+
+Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
-napredak za čovečanstvo. FULLSTOP.
+napredak za čovečanstvo. Ovo se može desiti samo ukoliko se kvantni računari upotrebe u dobre svrhe. FULLSTOP.
