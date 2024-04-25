@@ -188,7 +188,7 @@ E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilaci
 Fazna modulacija (PM) ... Zašto samo osnovne vrste modulacije ? Postoje i kvantne modulacije. Primer: Optički prenosnik velikog dometa u brisanom prostoru - 
 RX i TX - TX zapravo prenosnik a RX prijemnik. Pustićemo (eng: Infrared data association) protokol u brisan prostor sa TX na RX. Inače IrDA protokol može biti 
 u daljinskom upravljaču televizora do navođenja raketa a jedan od primera je Vympel R-23/24 (NATO naziv: AA-7 Apex), sovjetska raketa vazduh-vazduh srednjeg 
-dometa.n Počnimo sa udaljenosti od 5 km i brzina svetlosti će proći kroz brisan prostor. Kvantni modulator može ubrzati optički prenos još 10 do 50 puta, ako 
+dometa. Počnimo sa udaljenosti od 5 km i brzina svetlosti će proći kroz brisan prostor. Kvantni modulator može ubrzati optički prenos još 10 do 50 puta, ako 
 ne i do 1000 puta. Kvantna modulacija prenosi (AM), (UKT), (PM) u super poziciji najmanjeg talasnog snopa i dešava se progresivno ubrzanje. Isto možemo primeniti 
 i na WiMAX (eng: Worldwide Interoperability for Microwave Access) koji je širokopojasna bežična tehnologija definisana IEEE 802.16 standardom. WiMAX je sličan
 Wi-Fi standardu, ali radi na većim razdaljinama, većom brzinom protoka nosi više korisnika. Kod WiMAX-a postoji fiksni pristup, nomadski pristup, mobilni 
