@@ -234,7 +234,9 @@ računare ne možemo gledati kao na standardne superkompjutere današnjice, jer 
 minijaturnu, dimenziju ove još uvek strane tehnologije ljudskom umu ali i u ono kako danas shvatamo funkcionisanje standardnih računarskih sistema baziranih, 
 pre svega, na intuitivnom razumevanju tehnologije, jer kvantna tehnologija upravo i počiva na suprotnosti ovom stanovištu: na subatomskom svetu kvantne 
 mehanike gde je sve moguće.
+
 - Gde je sve verovatno.
+  
 Osamdesetih godina dvadesetog veka jedan od najvažnijih fizičara epohe Ričard Fajnman (Richard Feynman) naišao je na veliki problem u svojim gotovo pionirskim 
 pokušajima da odškrine prozor ka revolucionarnoj ideji kvantne fizike koja je već počela da nagovešatava neverovatne mogućnosti skrivene u istoj. Problem je 
 bio što je Fajman odmah na početku uvideo da su kvantni sistemi po svojoj prirodi izuzetno ranjivi kada ih posmatramo iz naše makro perspektive postojanja, 
