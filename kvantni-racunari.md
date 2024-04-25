@@ -9,7 +9,7 @@
 
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
->
+> ------------------------------------------------------------------------------------------------------------------- >
 
 #### SUPERKOMPJUTERI I KJUBIT, RAČUNARI SA VISOKIM PERFORMANSAMA I OGROMNIM BRZIM PRORAČUNIMA.
 
