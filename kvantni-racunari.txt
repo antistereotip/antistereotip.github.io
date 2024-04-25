@@ -197,6 +197,18 @@ raspšljivost. to su samo neki primeri kvantnih svojstava prenošenja svetla kva
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+ZIGBEE KVANTNI NAČIN SLANJA PORUKE
+
+ZigBee je protokol za bežičnu komunikaciju, koj radi po IEEE 802.15.4 standardu. U pametnim mrežama (IOT) i M2M komunikacije, koristi se da bi upravljao pametnim 
+uređajima. ZigBee je bežični komunikacioni protokol namenjem ličnim mrežama s malom propustljivošću i malom potrošnjom energije. Ciljane primene ZigBee-a su aplikacije 
+koje zahtevaju umrežavanje velikog broja uređaja, prenos male količine podataka, malu potrošnju energije i visoku sigurnost prenosa. Koristi se u automatizaciji, satelitskoj komunikaciji, medicini i slično. Pošto ima tu moć da brzo i sigurno hendluje malu informaciju, uglavnom se koristi kao takozvani FFD (kordinator) ili FFD (usmerivač – ruter) ili kao FFD (terminator – poslednji u nizu) u čvorištima. Primer je komunikacija između satelita i GSM kartice. Zašto baš ZigBee u kvantonm 
+svojstvu ? FFD može biti u superpoziciji kada se uspostavi komunikacija satelita i GSM-a. Takvo korišćenje ZigBee protokola omogućava pravilnu konfiguraciju terena.
+Modulacijom ZigBee protokola moguće je napraviti niz fotona u jednom smeru, leptona i kvarkova u drugom smeru i neraspršljivosti samog atoma. Kada se lepton nađe u superpoziciji on komunicira paralelno i vodoravno sa kvarkom. Onda se u toj situaciji foton kreće multidimenziono. MEđutim, kada krenemo da posmatramo prijemnik i predajnik, on nam vraća samo nulu i jedinicu. U slučaju da se dogodi neka greška u superpoziciji za vreme transmitera i prijemnika, automatski dolazi do uništavanja 
+opreme, tu se vraćamo na oksidaciju metalnih površina. ZigBee mora raditi na tačnom naponu bez odstupanja, da bi sve radilo kako treba. Oprema koja se koristi je
+vrlo osetljiva i potreban je jako oprezan pristup. U slučaju da sve radi kako treba, ovo je jedan od najsigurnijih protokola u kvantnim dejstvima.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 KVANTNA MAŠINA.
 
 Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
