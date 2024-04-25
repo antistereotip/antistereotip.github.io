@@ -183,7 +183,18 @@ i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija orig
 računarima ?
 LINK: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
 E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
-*talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) NASTAVIĆE SE ... 
+*talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) 
+Vrste modulacije: Amplitudna modulacija (AM), Frekventna modulacija (UKT), Fazna modulacija (PM) ... Zašto samo osnovne vrste modulacije ? 
+Postoje i kvantne modulacije. Primer: Optički prenosnik velikog dometa u brisanom prostoru - RX i TX - TX zapravo prenosnik a RX prijemnik. Pustićemo 
+(eng: Infrared data association) protokol u brisan prostor sa TX na RX. Inače IrDA protokol može biti u daljinskom upravljaču televizora do navođenja raketa 
+a jedan od primera je Vympel R-23/24 (NATO naziv: AA-7 Apex), sovjetska raketa vazduh-vazduh srednjeg dometa.n Počnimo sa udaljenosti od 5 km i brzina svetlosti 
+će proći kroz brisan prostor. Kvantni modulator može ubrzati optički prenos još 10 do 50 puta, ako ne i do 1000 puta. Kvantna modulacija prenosi (AM), (UKT), (PM)
+u super poziciji najmanjeg talasnog snopa i dešava se progresivno ubrzanje. Isto možemo primeniti i na WiMAX (eng: Worldwide Interoperability for Microwave Access) 
+koji je širokopojasna bežična tehnologija definisana IEEE 802.16 standardom. WiMAX je sličan Wi-Fi standardu, ali radi na većim razdaljinama, većom brzinom protoka 
+nosi više korisnika. Kod WiMAX-a postoji fiksni pristup, nomadski pristup, mobilni pristup i potpuna mobilnost (4 faze). Poznat je kao mikrotalasni pristup i radi 
+na principu  *tačka na više tačaka* - Ovde se koristi kvantna modulacija sa mrežnim modulatorom manje osetljivosti, ali veće procesuirane snage jer je WiMAX jako 
+komplesna tehnologija (Tačka na više tačaka brisanim prostorom) - Tu je potrebno raspršivanje svetla većim naponom. Tu dolazi na snagu foton i njegova 
+raspšljivost. to su samo neki primeri kvantnih svojstava prenošenja svetla kvantnim putem.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
