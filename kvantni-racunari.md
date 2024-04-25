@@ -189,7 +189,7 @@ na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za
 i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna modulacija u kvantim 
 računarima ?
 
-This is the *[Markdown Guide]([https://antistereotip.github.io/data/pics/gif/Amfm3-en-de.gif.))*
+LINK: https://antistereotip.github.io/data/pics/gif/Amfm3-en-de.gif
 
 E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
 *talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) Vrste modulacije: Amplitudna modulacija (AM), Frekventna modulacija (UKT), 
