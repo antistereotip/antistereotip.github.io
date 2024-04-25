@@ -7,7 +7,7 @@
 >
 >  *Sve što trebate znati o* **kjubitu**.
 
-### KVANTNA SVOJSTVA (QBIT)
+### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
