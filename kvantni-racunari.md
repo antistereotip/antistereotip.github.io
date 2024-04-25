@@ -1,4 +1,4 @@
-> #### Qbit!
+> #### Qbit - Kjubit!
 >
 > - Svojstva kjubita.
 > - Kvantni računari.
