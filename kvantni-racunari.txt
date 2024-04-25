@@ -133,7 +133,7 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Modulacija i frekventi kvantni modulatori:
+Modulacija i frekventni kvantni modulatori:
 Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
 frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
 na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
