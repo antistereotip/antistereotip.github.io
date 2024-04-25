@@ -7,7 +7,7 @@
 >
 >  *Sve što trebate znati o* **kjubitu**.
 
-### KVANTNA SVOJSTVA (QBIT - KJUBIT)
+#### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
@@ -21,7 +21,7 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### KVANTNI RAČUNARI
+#### KVANTNI RAČUNARI
 
 Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna 
 informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije 
@@ -35,7 +35,7 @@ stidljivost samog kjubita..
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### KVANTNI SPIN:
+#### KVANTNI SPIN:
 
 Veoma bitna odlika kvantnog računara je osobina elektrona koja se naziva spin. Spin je osobina elektorna koja omogućava da se isti vrti oko svoje ose. 
 To kjubitu daje multidimenzionalnost kada se čestica nađe u superpoziciji. Prema binarnoj logici određena su dva stanja, tačnije smera spina i to suprotna, 
@@ -46,7 +46,7 @@ razbio svaku RSA šifru koja je danas u upotrebi. Otprilike, kvantni računar bi
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### PRIMER FAKTORISANJA BROJEVA:
+#### PRIMER FAKTORISANJA BROJEVA:
 
 Faktorisanje je u matematici razlaganje nekog objekta (broja, polinoma ili matrice) u produkt nekih drugih objekata, ili faktora, koji kada se međusobno 
 pomnože daju originalni broj. Primer gde je prvi kvantni računar fatktorisao broj 15 u oblik 3 x 5 i to je bio prvi zadatak koji je jedan kvantni računar 
@@ -55,7 +55,7 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### OPERACIJE BITA I KJUBITA.
+#### OPERACIJE BITA I KJUBITA.
 
 Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
@@ -77,7 +77,7 @@ pojasnimo šta se tu zapravo dešava.
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### MAKSVELOV DEMON
+#### MAKSVELOV DEMON
 
 Moguće stanje kvantnog bita je definisano spinovima, superpozicijom i mešanjem kjubita. Imamo spin (gore, dole) – smer. Imamo superpoziciju 
 (0, 1, 0, 01, 00, 10, 11) i imamo mešanje (gore 1, 0, 01, 00, 10, 11) (i) (dole, 1, 0, 01, 00, 10, 11). Ovo je najprostija postavka kjubita. 
@@ -96,7 +96,7 @@ ima veću temperaturu, između njih će doći do razmene energije (Toplije će g
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### REVERSIBILNOST I IREVERSIBILNOST
+#### REVERSIBILNOST I IREVERSIBILNOST
 
 Ovaj primer smo naveli samo kao primer da kvantna fizika ruši sve moguće zakone klasične fizike i svojim delovanjem ona je zapravo jedan paradoks u 
 svakom smsilu te reči. Idemo korak dalje. Uzećemo primer kofe sa dve boje peska, žutim peskom i sivim peskom. Uzećemo lopaticu i mešati pesak. 
@@ -114,7 +114,7 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### ŠERDINGEROVA MAČKA
+#### ŠERDINGEROVA MAČKA
 
 Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment 
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa 
@@ -131,7 +131,7 @@ I tu više nema paradoxa.
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### PPROCESIBILNE BRZE I SPORE ČESTICE.
+#### PPROCESIBILNE BRZE I SPORE ČESTICE.
 
 Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
 generalno *materijalne čestice* i *antimaterijske čestice*. U sledeću kategopriju možemo svrstati *fotone* i *antifotone*. O ostalim svojstvima čestica 
@@ -148,7 +148,7 @@ foton je brži dok je antifoton dimenzionalniji i sporiji. Kod sporijeg fotona a
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### TAJNE DUBOKIH, MRAČNIH, KVANTNIH RAČUNARA, PROSTORA ISPOD VIDLJIVOG WEBA:
+#### TAJNE DUBOKIH, MRAČNIH, KVANTNIH RAČUNARA, PROSTORA ISPOD VIDLJIVOG WEBA:
 
 Postoji nekoliko nivoa vidljivog i nevidljivog weba:
   1. Prvi nivo Weba je vidljiv ljudima kroz obično surfvanje.
@@ -170,7 +170,7 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### KVANTNA SVOJSTVA NISKIH I VISOKIH STRUJA.
+#### KVANTNA SVOJSTVA NISKIH I VISOKIH STRUJA.
 
 Primer Akumulatora na 12 V: Tanke žice prenose napon koji je čoveku bezbedan za organizam bez strujnih posledica. Ali probajte da stavite žicu velikog obima 
 i promeniće se voltaža sa 12 V na nešto što je baš i nepodnošljivo za ljudski organizam. Šta se tu dešava ? U pitanju je velika probojnost malog napona.
@@ -181,7 +181,7 @@ instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu z
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### MODULACIJA I FREKVENTNI KVANTNI MODULATORI:
+#### MODULACIJA I FREKVENTNI KVANTNI MODULATORI:
 
 Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
 frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
@@ -207,7 +207,7 @@ svetla kvantnim putem.
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
+#### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
 ZigBee je protokol za bežičnu komunikaciju, koj radi po IEEE 802.15.4 standardu. U pametnim mrežama (IOT) i M2M komunikacije, koristi se da bi upravljao 
 pametnim uređajima. ZigBee je bežični komunikacioni protokol namenjem ličnim mrežama s malom propustljivošću i malom potrošnjom energije. Ciljane primene 
@@ -225,7 +225,7 @@ protokolom (Protokol brisanog prostora putem lasera), koji će korisiti kjubit z
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### KVANTNA MAŠINA.
+#### KVANTNA MAŠINA.
 
 Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
 Tip mašina za koju se vezuju velike nade u nastupajućoj eri tehnologije u čujem će se centru sutra nalaziti. Mašine koje će nuditi toliku količinu računarske 
@@ -252,7 +252,7 @@ Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### VEŠTAČKA INTELIGENCIJA I KVANTNI RAČUNARI
+#### VEŠTAČKA INTELIGENCIJA I KVANTNI RAČUNARI
 
 Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u veštačkoj inteligenciji koje se mogu efikasnije rešiti 
 korišćenjem današnjih kvantnih računara. Veštačka inteligencija i kvantno računarstvo imaju mnogo zajedničkih karakteristika. Kvantno računarstvo
@@ -266,7 +266,7 @@ mora NASTAVITI ...
 
 > ------------------------------------------------------------------------------------------------------------------- >
 
-### ZAKLJUČAK:
+#### ZAKLJUČAK:
 
 Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
