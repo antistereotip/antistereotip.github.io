@@ -15,8 +15,6 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
 KVANTNI RAČUNARI
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna 
 informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije 
 i druga kvantna svojstva za operaciju nad informacijama. To znači da kjubit može imati više stanja nule i jedinice (0, 1, 01, 00, 10, 11), jer svaki od tih stanja 
