@@ -10,7 +10,7 @@
 
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
+> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!! ...
 
 #### SUPERKOMPJUTERI I KJUBIT, RAČUNARI SA VISOKIM PERFORMANSAMA I OGROMNIM BRZIM PRORAČUNIMA.
 
