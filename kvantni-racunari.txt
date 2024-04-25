@@ -1,5 +1,5 @@
 
-KVANTNA SVOJSTVA
+KVANTNA SVOJSTVA (QBIT)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -236,6 +236,17 @@ nikako nije puko oponašanje kvantnih fenomena standardnim proračunskim metodam
 bazirana na izgradnji sistema koji će raditi po principu kvantnih operacija na isti način kako se oni u prirodi opažaju i beleže.
 
 Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+VEŠTAČKA INTELIGENCIJA I KVANTNI RAČUNARI
+
+Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u veštačkoj inteligenciji koje se mogu efikasnije rešiti korišćenjem 
+današnjih kvantnih računara. Veštačka inteligencija i kvantno računarstvo imaju mnogo zajedničkih karakteristika. Kvantno računarstvo može da obezbedi veštačku inteligenciju i algoritme mašinskog učenja sa brzinom obuke i računarskom snagom po nižoj ceni. S druge strane, veštačka inteligencija može da obezbedi kvantnim 
+računarima neophodne algoritme za ispravljanje grešaka. Neki od algoritama u AI koji su uspešno implementirani na kvantnom računaru su i algoritmi nenadgledanog 
+učenja (klasterizacija i analiza glavnih komponenti) i klasifikacija nadgledanog učenja, kao što su mašine za podršku vektorima. Sama klasterizacija kvantno povezanih računara sa AI je nešto potpuno novo na tržištu i jako progresivno se širi. Više ne možemo zaustaviti veštačku inteligenciju. Kada AI bude počela da se samoprogramira, 
+to je već delo kvantnog računara bez nadgledanja bootmastera. Isto tako, veštačka inteligencija će dati algoritme kvantim računarima, da bi poboljšali superpoziciju 
+AI u polju kjubita. Ovo je jako opširna tema pa se mora NASTAVITI ...
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
