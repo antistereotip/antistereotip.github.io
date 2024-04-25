@@ -98,7 +98,7 @@ ima veću temperaturu, između njih će doći do razmene energije (Toplije će g
 
 #### REVERSIBILNOST I IREVERSIBILNOST
 
-Ovaj primer smo naveli samo kao primer da kvantna fizika ruši sve moguće zakone klasične fizike i svojim delovanjem ona je zapravo jedan paradoks u 
+> - Ovaj primer smo naveli samo kao primer da kvantna fizika ruši sve moguće zakone klasične fizike i svojim delovanjem ona je zapravo jedan paradoks u 
 svakom smsilu te reči. Idemo korak dalje. Uzećemo primer kofe sa dve boje peska, žutim peskom i sivim peskom. Uzećemo lopaticu i mešati pesak. 
 Onog trenutka kada pesak promešamo, ne postoji reversabilni proces da sve to vrati kako je bilo. Sada ćemo se opet vratiti na Maksvelovog demona i 
 videti kako je moguće prkositi ireversibilnosti, tj kako možemo izvesti reversibilni proces (bar teorijski). Ova teorija nam govori, ukoliko je tačna, 
@@ -116,7 +116,7 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 
 #### ŠERDINGEROVA MAČKA
 
-Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment 
+> - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment 
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa 
 zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva (i 00000000 i 11111111), u zavisnosti od prethodnih nasumičnih 
 događaja. Iako je prvobitni „eksperiment” bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je 
@@ -133,7 +133,7 @@ I tu više nema paradoxa.
 
 #### PPROCESIBILNE BRZE I SPORE ČESTICE.
 
-Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
+> - Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
 generalno *materijalne čestice* i *antimaterijske čestice*. U sledeću kategopriju možemo svrstati *fotone* i *antifotone*. O ostalim svojstvima čestica 
 nećemo pisati u ovom poglavlju. Primer: Laser koji radi na 3.3 V on potiskuje foton na usmerenost snopa u milimetar. Zatim imamo antifoton koji se \]
 stavlja na 5 V i tu se može desiti sledeće: Foton je raširio svoj spektar i naprimer oksidirao je sve metalne površine u objektu. Zašto se to dešava ? 
@@ -150,7 +150,7 @@ foton je brži dok je antifoton dimenzionalniji i sporiji. Kod sporijeg fotona a
 
 #### TAJNE DUBOKIH, MRAČNIH, KVANTNIH RAČUNARA, PROSTORA ISPOD VIDLJIVOG WEBA:
 
-Postoji nekoliko nivoa vidljivog i nevidljivog weba:
+> - Postoji nekoliko nivoa vidljivog i nevidljivog weba:
   1. Prvi nivo Weba je vidljiv ljudima kroz obično surfvanje.
   2. Sledeći web nivo je Deep Web. Surfovanje bez dubljih ograničenja, primeri su (hiddenwiki linkovi kao i .onion stranice raznolikih karaktera). 
 Pristupa mu se Torom. Uglavnom se sve plaća Bitcoinima. Postoji trgovanje drogom, oružjem, hakerskim uslugama, pedofilije itd. Potrebno za veću 
@@ -172,7 +172,7 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 #### KVANTNA SVOJSTVA NISKIH I VISOKIH STRUJA.
 
-Primer Akumulatora na 12 V: Tanke žice prenose napon koji je čoveku bezbedan za organizam bez strujnih posledica. Ali probajte da stavite žicu velikog obima 
+> - Primer Akumulatora na 12 V: Tanke žice prenose napon koji je čoveku bezbedan za organizam bez strujnih posledica. Ali probajte da stavite žicu velikog obima 
 i promeniće se voltaža sa 12 V na nešto što je baš i nepodnošljivo za ljudski organizam. Šta se tu dešava ? U pitanju je velika probojnost malog napona.
 Evo jednog primera u satelitskoj pratnji vozila koje sam lično iskusio: Jednom prilikom sam zaboravio unimer. Postoje u osnovi 3 žice - bela-kontakt -
 crvena - Napon - Crna - Masa. Žice su vezane na akumulator. Kako bih proverio napon žica, uhvatio sam presečen kraj crvene žice i presečen kraj crne žice. 
@@ -183,7 +183,7 @@ instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu z
 
 #### MODULACIJA I FREKVENTNI KVANTNI MODULATORI:
 
-Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
+> - Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
 frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
 na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
 i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna modulacija u kvantim 
@@ -191,7 +191,7 @@ računarima ?
 
 LINK: https://antistereotip.github.io/data/pics/gif/Amfm3-en-de.gif
 
-E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
+> - E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
 *talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) Vrste modulacije: Amplitudna modulacija (AM), Frekventna modulacija (UKT), 
 Fazna modulacija (PM) ... Zašto samo osnovne vrste modulacije ? Postoje i kvantne modulacije. Primer: Optički prenosnik velikog dometa u brisanom prostoru - 
 RX i TX - TX zapravo prenosnik a RX prijemnik. Pustićemo (eng: Infrared data association) protokol u brisan prostor sa TX na RX. Inače IrDA protokol može biti 
@@ -209,7 +209,7 @@ svetla kvantnim putem.
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
-ZigBee je protokol za bežičnu komunikaciju, koj radi po IEEE 802.15.4 standardu. U pametnim mrežama (IOT) i M2M komunikacije, koristi se da bi upravljao 
+> - ZigBee je protokol za bežičnu komunikaciju, koj radi po IEEE 802.15.4 standardu. U pametnim mrežama (IOT) i M2M komunikacije, koristi se da bi upravljao 
 pametnim uređajima. ZigBee je bežični komunikacioni protokol namenjem ličnim mrežama s malom propustljivošću i malom potrošnjom energije. Ciljane primene 
 ZigBee-a su aplikacije koje zahtevaju umrežavanje velikog broja uređaja, prenos male količine podataka, malu potrošnju energije i visoku sigurnost prenosa. 
 Koristi se u automatizaciji, satelitskoj komunikaciji, medicini i slično. Pošto ima tu moć da brzo i sigurno hendluje malu informaciju, uglavnom se koristi 
@@ -227,7 +227,7 @@ protokolom (Protokol brisanog prostora putem lasera), koji će korisiti kjubit z
 
 #### KVANTNA MAŠINA.
 
-Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
+> - Negde tamo na temperaturi tek nešto iznad apsolutne nule (−273.15 °C), ili nula kelvina, izolovan od ostatka beskonačnog kosmosa nalazi se jedan kvantni računar.
 Tip mašina za koju se vezuju velike nade u nastupajućoj eri tehnologije u čujem će se centru sutra nalaziti. Mašine koje će nuditi toliku količinu računarske 
 snage da će gotovo kao nikada do sada dovesti do revolucije u načinu kako naše živote živimo, ali i kakva ćemo dalja očekivanja imati. Baš zato na kvantne 
 računare ne možemo gledati kao na standardne superkompjutere današnjice, jer oni to nikako nisu, već nešto posve drugačije… Moraćemo da uronimo u jednu drugu, 
@@ -235,9 +235,9 @@ minijaturnu, dimenziju ove još uvek strane tehnologije ljudskom umu ali i u ono
 pre svega, na intuitivnom razumevanju tehnologije, jer kvantna tehnologija upravo i počiva na suprotnosti ovom stanovištu: na subatomskom svetu kvantne 
 mehanike gde je sve moguće.
 
-- Gde je sve verovatno.
+> - - Gde je sve verovatno.
   
-Osamdesetih godina dvadesetog veka jedan od najvažnijih fizičara epohe Ričard Fajnman (Richard Feynman) naišao je na veliki problem u svojim gotovo pionirskim 
+> - Osamdesetih godina dvadesetog veka jedan od najvažnijih fizičara epohe Ričard Fajnman (Richard Feynman) naišao je na veliki problem u svojim gotovo pionirskim 
 pokušajima da odškrine prozor ka revolucionarnoj ideji kvantne fizike koja je već počela da nagovešatava neverovatne mogućnosti skrivene u istoj. Problem je 
 bio što je Fajman odmah na početku uvideo da su kvantni sistemi po svojoj prirodi izuzetno ranjivi kada ih posmatramo iz naše makro perspektive postojanja, 
 te su informacije u njima skladištene skrivene od naše spoznajne svesnosti na jedan dublji, meta-sofisticirani način. Upravo zbog toga mi nismo u mogućnosti 
@@ -256,7 +256,7 @@ Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
 
 #### VEŠTAČKA INTELIGENCIJA I KVANTNI RAČUNARI
 
-Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u veštačkoj inteligenciji koje se mogu efikasnije rešiti 
+> - Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u veštačkoj inteligenciji koje se mogu efikasnije rešiti 
 korišćenjem današnjih kvantnih računara. Veštačka inteligencija i kvantno računarstvo imaju mnogo zajedničkih karakteristika. Kvantno računarstvo
 može da obezbedi veštačku inteligenciju i algoritme mašinskog učenja sa brzinom obuke i računarskom snagom po nižoj ceni. S druge strane, veštačka 
 inteligencija može da obezbedi kvantnim računarima neophodne algoritme za ispravljanje grešaka. Neki od algoritama u AI koji su uspešno implementirani 
@@ -270,7 +270,7 @@ mora NASTAVITI ...
 
 #### ZAKLJUČAK:
 
-Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
+> - Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
 napredak za čovečanstvo. Ovo se može desiti samo ukoliko se kvantni računari upotrebe u dobre svrhe. FULLSTOP.
 
