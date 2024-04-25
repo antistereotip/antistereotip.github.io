@@ -190,6 +190,7 @@ i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija orig
 računarima ?
 
 LINK: https://github.com/antistereotip/antistereotip.github.io/blob/master/data/pics/gif/Amfm3-en-de.gif
+ ![Tux, the Linux mascot](/blob/master/data/pics/gif/Amfm3-en-de.gif)
 
 E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
 *talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) Vrste modulacije: Amplitudna modulacija (AM), Frekventna modulacija (UKT), 
