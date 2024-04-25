@@ -71,7 +71,7 @@ mnogo kompleksu operaciju koju bi bit proceduralno rešavao. Ovo nam govori da �
 ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će biti ili nula ili jedinica kao konačna vrednost.
 
 > ------------------------------------------------------------------------------------------------------------------- > ---
- ---
+
 Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da 
 pojasnimo šta se tu zapravo dešava.
 
