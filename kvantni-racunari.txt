@@ -8,6 +8,8 @@ zahtevanje te informacije koju je kvantni računar obradio, mi zapravo dobijamo 
 i zato što ljudski mozak i telo nisu spremni ili naviknuti na stanje superpozicije čestice. Za ovaj fenomen može se razumljivo reći da je u pitanju 
 stidljivost samog kjubita..
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Veoma bitna odlika kvantnog računara je osobina elektrona koja se naziva spin. Spin je osobina elektorna koja omogućava da se isti vrti oko svoje ose. 
 To kjubitu daje multidimenzionalnost kada se čestica nađe u superpoziciji. Prema binarnoj logici određena su dva stanja, tačnije smera spina i to suprotna, 
 gde je jedan nula a drugi jedinica. Uz pomoć spina možemo kreirati kompjutersku memoriju.
@@ -18,12 +20,16 @@ Mogućnosti ovih računara su prevelike i najsloženije matematičke probleme mo
 Šorov kvantni algoritam koj je možda i najbrži način za faktorisanje brojeva i on bi bez ikakvih problema razbio svaku RSA šifru koja je danas u upotrebi. 
 Otprilike, kvantni računar bi razotkrio sve tajne ovoga sveta za samo dvadeset minuta.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Primer faktorisanja brojeva:
 
 Faktorisanje je u matematici razlaganje nekog objekta (broja, polinoma ili matrice) u produkt nekih drugih objekata, ili faktora, koji kada se međusobno 
 pomnože daju originalni broj. Primer gde je prvi kvantni računar fatktorisao broj 15 u oblik 3 x 5 i to je bio prvi zadatak koji je jedan kvantni računar 
 u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo gde bi klasičnom računaru trebalo previše svetlosnih godina, kvantni računari 
 će biti produktivni u samo 20 minuta.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
@@ -38,8 +44,12 @@ odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvol
 mnogo kompleksu operaciju koju bi bit proceduralno rešavao. Ovo nam govori da će kvantni bit zapravo rešavati svaku našu zamisao u apstraktnom smislu dok god 
 ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će biti ili nula ili jedinica kao konačna vrednost.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Možda ovo nije najjasnije kada razumete kako funkcioniše klasična fizika i ne dozvoljavate kvantnoj fizici da ona zapravo postane postulat, ali probaćemo da 
 pojasnimo šta se tu zapravo dešava.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Moguće stanje kvantnog bita je definisano spinovima, superpozicijom i mešanjem kjubita. Imamo spin (gore, dole) – smer. Imamo superpoziciju 
 (0, 1, 0, 01, 00, 10, 11) i imamo mešanje (gore 1, 0, 01, 00, 10, 11) (i) (dole, 1, 0, 01, 00, 10, 11). Ovo je najprostija postavka kjubita. 
@@ -56,6 +66,8 @@ premešta u posudu gde su sporije čestice. Time se dobija veća temperatura u p
 temperatura. Ovim postupkom smo narušili prvi zakon termodinamike jer takav zakon govori da telo koje ima manju temperaturu ako se nađe pored tela koje 
 ima veću temperaturu, između njih će doći do razmene energije (Toplije će grejati hladnije). U ovom slučaju dešava se paradoks Maksvelovog demona.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Ovaj primer smo naveli samo kao primer da kvantna fizika ruši sve moguće zakone klasične fizike i svojim delovanjem ona je zapravo jedan paradoks u 
 svakom smsilu te reči. Idemo korak dalje. Uzećemo primer kofe sa dve boje peska, žutim peskom i sivim peskom. Uzećemo lopaticu i mešati pesak. 
 Onog trenutka kada pesak promešamo, ne postoji reversabilni proces da sve to vrati kako je bilo. Sada ćemo se opet vratiti na Maksvelovog demona i 
@@ -70,6 +82,8 @@ zapisao i uradio kako treba i prkosio zakonu termodinamike, a želeo da vrati sv
 termodinamički zakon, on bi morao po svesci da svaku česticu redom vrati na svoje mesto i da nastavi sa posmatranjem. Kao rezltat, dobio bi reversibilni 
 proces u pospunosti i tu je zapravo moć kvante fizike.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment 
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa 
 zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva (i 00000000 i 11111111), u zavisnosti od prethodnih nasumičnih 
@@ -82,6 +96,8 @@ vidljivog do darkweba, deepweba i marijane), dok u drugoj prilici gde bi bilo 8 
 gubi kvantno svojstvo ukoliko je mačka mrtva ili živa. Izloženost radijaciji bi verovatno mačku ubilo, međutim, mačka je moguće i preživela radijaciju. 
 Od čega to zavisi ? Od posmatranja. Kao što smo rekli, kjubit je vrlo stidljiva čestica. NE voli da se posmatra. Stoga mačka je i dalje živa ili mrtva. 
 I tu više nema paradoxa.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Procesibilne breze i spore čestice:
 Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
@@ -96,6 +112,33 @@ lepton se rašćlanjije. Na tak način dobijamo HDS (Hologram data sheme) protok
 da brzina svetlosti bi bila zanemarljiva u odnosu na drugu brzinu lasera. sada dolazimo na *antifoton* gde je 5 V nešto što će raširiti snop. U tom slučaju 
 kvarkovi, kristal i leptoni imaju svojstvo tolikok širenja samog fotona da se dobija sferno kućište. Oba fotona imaju svoju namenu, foton je brži dok je 
 antifoton dimenzionalniji i sporiji. Kod sporijeg fotona atom je bukvano deljiv. Tu je paradox brže i sporije čestice.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tajne kvantih računara:
+
+Postoji nekoliko nivoa vidljivog i nevidljivog weba:
+
+1. Prvi nivo Weba je vidljiv ljudima kroz obično surfvanje.
+
+2. Sledeći web nivo je Deep Web. Surfovanje bez dubljih ograničenja, primeri su (hiddenwiki linkovi kao i .onion stranice raznolikih karaktera). 
+Pristupa mu se Torom. Uglavnom se sve plaća Bitcoinima. Postoji trgovanje drogom, oružjem, hakerskim uslugama, pedofilije itd. Potrebno za veću 
+bezbednost je i neki VPN.
+
+3. Još dublji nivo weba je Dark web. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
+postoje i još mnogo .onion linkova koji vode u užasne scene koje ne postoje ni u ljudskoj mašti.). Potreban je visok nivo zaštite. Od VPN, Tora, 
+Enkripcije, Modova, Botova. Botneta (reversibilni procesi) itd.
+
+4. A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je Marijana Web. Tamo ne postoje ograničenja. Tamo je pakao na zemlji. 
+Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
+to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
+Marijana ima npr. *pet nivoa* koji su u istom redu paralelno. Svih *pet nivoa* su namenjeni proračunima. U svakom od tih *pet nivoa* postoje jos po *7 nivoa*. 
+*Pet nivota* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i noskog dometa. 
+Može aktivirati 4, 5, 6, 7, n, nuklearnih bombi u samo jednoj milisekundi. Može čitati sadržaj bilo koje sobe unutar zidova kuće, stana, zgrade, objekta i 
+to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti bilo šta. Ljudi koji ga kontrolišu su vrlo moćni ljudi kojih je jako malo, ali
+imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o ovakvoj temi se može napisati knjiga debela 15000 stranica.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
