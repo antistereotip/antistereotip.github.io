@@ -83,6 +83,12 @@ gubi kvantno svojstvo ukoliko je mačka mrtva ili živa. Izloženost radijaciji 
 Od čega to zavisi ? Od posmatranja. Kao što smo rekli, kjubit je vrlo stidljiva čestica. NE voli da se posmatra. Stoga mačka je i dalje živa ili mrtva. 
 I tu više nema paradoxa.
 
+Procesibilne čestice:
+Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
+generalno *materijalne čestice* i *antimaterijske čestice*. U sledeću kategopriju možemo svrstati *fotone* i *antifotone*. O ostalim svojstvima čestica 
+nećemo pisati u ovom poglavlju. Primer: Laser koji radi na 3.3 V on potiskuje foton na usmerenost snopa u milimetar. Zatim imamo antifoton koji se stavlja na 5 V 
+i tu se može desiti sledeće: Foton je raširio svoj spektar i naprimer oksidirao je sve metalne površine u objektu. Zašto se to dešava ? Brži foton je foton koji radi na svojoj određenoj frekvenciji i kao takav on ne širi snop i ne dira ništa u prostoriji, samo je usmeren na jednu tačku i ka njoj stremi. Dok foton koji ima drugačiju frekvenciju se znatno usporava i pravi oksidaciju na sve metale. E sada, da li možemo ubrzati laser? Možemo. Tu ćemo iskoristiti kristal, kvark i lepton. Ovom metodom laser moram staviti na 2.8 V (naprimer). Kvark će se u svojoj super poziciji smanjiti frekvenciju lasera, dok će kristal pomoći da se snop još malo suzi. Uzećemo primer da se foton kreće brzinom svetlosti. E sada, u našem eksperimentu na red dolazi lepton. Pošto je atom nedeljiv, lepton se rašćlanjije. Na tak način dobijamo HDS (Hologram data sheme) protokol. Laser će postati prebrz i čestica će se bukvalno teleportovati. To bi značilo da brzina svetlosti bi bila zanemarljiva u odnosu na drugu brzinu lasera. sada dolazimo na *antifoton* gde je 5 V nešto što će raširiti snop. U tom slučaju kvarkovi, kristal i leptoni imaju svojstvo tolikok širenja samog fotona da se dobija sferno kućište. Oba fotona imaju svoju namenu, foton je brži dok je antifoton dimenzionalniji i sporiji. Kod sporijeg fotona atom je bukvano deljiv. Tu je paradox brže i sporije čestice
+
 Zaključak. Super kvantni kompjuteri bi mogli za kratko vreme da razbiju svaku moguću tajnu na svetu (sve TOP SECRET oznake bi postale javne – PUBLIC) jer 
 bi svaki asimetrični, ali i simetrični algoritam bio razbijen za mnogo kratko vreme i sve oznake pod velom tajne bi bile razokrivene. To bi bio veliki 
 napredak za čovečanstvo. FULLSTOP.
