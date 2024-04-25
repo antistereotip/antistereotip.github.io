@@ -2,8 +2,10 @@
 >
 > - Svojstva kjubita.
 > - Kvantni računari.
+> - Kvantna mehanika.
+> - Kvantna fizika.
 >
->  *Sve što trebate znati o* **kjubitu**.
+>  *Sve što trebate znati o* * **kjubitu** *.
 
 ### KVANTNA SVOJSTVA (QBIT)
 
