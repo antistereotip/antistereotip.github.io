@@ -151,14 +151,14 @@ foton je brži dok je antifoton dimenzionalniji i sporiji. Kod sporijeg fotona a
 #### TAJNE DUBOKIH, MRAČNIH, KVANTNIH RAČUNARA, PROSTORA ISPOD VIDLJIVOG WEBA:
 
 > - Postoji nekoliko nivoa vidljivog i nevidljivog weba:
-  1. Prvi nivo Weba je vidljiv ljudima kroz obično surfvanje.
-  2. Sledeći web nivo je Deep Web. Surfovanje bez dubljih ograničenja, primeri su (hiddenwiki linkovi kao i .onion stranice raznolikih karaktera). 
+    1. Prvi nivo Weba je vidljiv ljudima kroz obično surfvanje.
+    2. Sledeći web nivo je Deep Web. Surfovanje bez dubljih ograničenja, primeri su (hiddenwiki linkovi kao i .onion stranice raznolikih karaktera). 
 Pristupa mu se Torom. Uglavnom se sve plaća Bitcoinima. Postoji trgovanje drogom, oružjem, hakerskim uslugama, pedofilije itd. Potrebno za veću 
 bezbednost je i neki VPN.
-  3. Još dublji nivo weba je Dark web. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
+    3. Još dublji nivo weba je Dark web. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
 postoje i još mnogo .onion linkova koji vode u užasne scene koje ne postoje ni u ljudskoj mašti.). Potreban je visok nivo zaštite. Od VPN, Tora, 
 Enkripcije, Modova, Botova. Botneta (reversibilni procesi) itd.
-  4. A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je Marijana Web. Tamo ne postoje ograničenja. Tamo je pakao na zemlji. 
+    4. A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je Marijana Web. Tamo ne postoje ograničenja. Tamo je pakao na zemlji. 
 Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
 Marijana ima npr. *pet nivoa* koji su u istom redu paralelno. Svih *pet nivoa* su namenjeni proračunima. U svakom od tih *pet nivoa* postoje jos po *7 nivoa*. 
