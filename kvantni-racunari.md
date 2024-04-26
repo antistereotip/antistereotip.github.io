@@ -55,6 +55,7 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 će biti produktivni u samo 20 minuta.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
+
 #### OPERACIJE BITA I KJUBITA.
 
 > - Klasični računari imaju operacije koje u realnim uslovima svaki broj u množenju sa svakim postavljaju kao pojedinačne operacije i za izračunavanje mnogo 
@@ -257,7 +258,7 @@ Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
 
 #### VEŠTAČKA INTELIGENCIJA I KVANTNI RAČUNARI
 
-> - Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u **veštačkoj inteligenciji** koje se mogu efikasnije rešiti 
+> - Ovaj rad će razmotriti osnovnu građu blokova kvantnog računarstva i razmotriće glavne primene u **veštačkoj inteligenciji** koje se mogu efikasnije rešiti 
 korišćenjem današnjih kvantnih računara. **Veštačka inteligencija** i kvantno računarstvo imaju mnogo zajedničkih karakteristika. Kvantno računarstvo
 može da obezbedi **veštačku inteligenciju** i algoritme mašinskog učenja sa brzinom obuke i računarskom snagom po nižoj ceni. S druge strane, **veštačka 
 inteligencija** može da obezbedi kvantnim računarima neophodne algoritme za ispravljanje grešaka. Neki od algoritama u **veštačkoj inteligenciji** koji su
