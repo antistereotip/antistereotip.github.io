@@ -132,7 +132,7 @@ I tu više nema paradoxa.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
-#### PPROCESIBILNE BRZE I SPORE ČESTICE.
+#### PROCESIBILNE BRZE I SPORE ČESTICE.
 
 > - Čestice za koje se u današnje vreme smatra da su elementarne obuhvataju fundamentalne fermione (kvarkove, leptone, antikvarkove, i antileptone) koji su 
 generalno *materijalne čestice* i *antimaterijske čestice*. U sledeću kategopriju možemo svrstati *fotone* i *antifotone*. O ostalim svojstvima čestica 
