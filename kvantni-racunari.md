@@ -184,42 +184,42 @@ instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu z
 
 #### MODULACIJA I FREKVENTNI KVANTNI MODULATORI:
 
-> - Modulacija je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
-frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u modulator, i tu signal informacije menja nosilac 
-na neki način. Modulirani nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima modulirani signal koji je zatim pojačan 
-i procesiran. Šalje se u demodulator (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna modulacija u kvantim 
+> - **Modulacija** je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
+frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i signal informacije se uvode u **modulator**, i tu signal informacije menja nosilac 
+na neki način. **Modulirani** nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima **modulirani** signal koji je zatim pojačan 
+i procesiran. Šalje se u **demodulator** (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna **modulacija** u kvantim 
 računarima ?
 
 LINK: https://antistereotip.github.io/data/pics/gif/Amfm3-en-de.gif
 
-> - E sada, modularna kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
-*talasanja* u kjubitu. Dalje - (Modulacija i visoke, niske, mikro i makro frekvencije) Vrste modulacije: Amplitudna modulacija (AM), Frekventna modulacija (UKT), 
-Fazna modulacija (PM) ... Zašto samo osnovne vrste modulacije ? Postoje i kvantne modulacije. Primer: Optički prenosnik velikog dometa u brisanom prostoru - 
-RX i TX - TX zapravo prenosnik a RX prijemnik. Pustićemo (eng: Infrared data association) protokol u brisan prostor sa TX na RX. Inače IrDA protokol može biti 
-u daljinskom upravljaču televizora do navođenja raketa a jedan od primera je Vympel R-23/24 (NATO naziv: AA-7 Apex), sovjetska raketa vazduh-vazduh srednjeg 
-dometa. Počnimo sa udaljenosti od 5 km i brzina svetlosti će proći kroz brisan prostor. Kvantni modulator može ubrzati optički prenos još 10 do 50 puta, ako 
-ne i do 1000 puta. Kvantna modulacija prenosi (AM), (UKT), (PM) u super poziciji najmanjeg talasnog snopa i dešava se progresivno ubrzanje. Isto možemo primeniti 
-i na WiMAX (eng: Worldwide Interoperability for Microwave Access) koji je širokopojasna bežična tehnologija definisana IEEE 802.16 standardom. WiMAX je sličan
-Wi-Fi standardu, ali radi na većim razdaljinama, većom brzinom protoka nosi više korisnika. Kod WiMAX-a postoji fiksni pristup, nomadski pristup, mobilni 
-pristup i potpuna mobilnost (4 faze). Poznat je kao mikrotalasni pristup i radi na principu  *tačka na više tačaka* - Ovde se koristi kvantna modulacija sa 
-mrežnim modulatorom manje osetljivosti, ali veće procesuirane snage jer je WiMAX jako komplesna tehnologija (Tačka na više tačaka brisanim prostorom) - 
-Tu je potrebno raspršivanje svetla većim naponom. Tu dolazi na snagu foton i njegova raspšljivost. to su samo neki primeri kvantnih svojstava prenošenja 
-svetla kvantnim putem.
+> - E sada, **modularna** kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
+*talasanja* u kjubitu. Dalje - (**Modulacija** i visoke, niske, mikro i makro frekvencije) Vrste **modulacije**: Amplitudna modulacija **(AM)**, Frekventna
+modulacija **(UKT)**, Fazna modulacija **(PM)** ... Zašto samo osnovne vrste **modulacije** ? Postoje i kvantne **modulacije**. Primer: Optički prenosnik
+velikog dometa u brisanom prostoru - RX i TX - TX zapravo prenosnik a RX prijemnik. Pustićemo (eng: Infrared data association) protokol u brisan prostor
+sa TX na RX. Inače IrDA protokol može biti u daljinskom upravljaču televizora do navođenja raketa a jedan od primera je Vympel R-23/24 (NATO naziv: AA-7 Apex),
+sovjetska raketa vazduh-vazduh srednjeg dometa. Počnimo sa udaljenosti od 5 km i brzina svetlosti će proći kroz brisan prostor. Kvantni **modulator** može ubrzati
+optički prenos još 10 do 50 puta, ako ne i do 1000 puta. Kvantna **modulacija** prenosi (AM), (UKT), (PM) u super poziciji najmanjeg talasnog snopa i dešava se
+progresivno ubrzanje. Isto možemo primeniti i na WiMAX (eng: Worldwide Interoperability for Microwave Access) koji je širokopojasna bežična tehnologija
+definisana IEEE 802.16 standardom. WiMAX je sličan Wi-Fi standardu, ali radi na većim razdaljinama, većom brzinom protoka nosi više korisnika. Kod WiMAX-a
+postoji fiksni pristup, nomadski pristup, mobilni pristup i potpuna mobilnost (4 faze). Poznat je kao mikrotalasni pristup i radi na principu  *tačka na
+više tačaka* - Ovde se koristi kvantna **modulacija** sa mrežnim **modulatorom** manje osetljivosti, ali veće procesuirane snage jer je WiMAX jako komplesna
+tehnologija (Tačka na više tačaka brisanim prostorom) - Tu je potrebno raspršivanje svetla većim naponom. Tu dolazi na snagu foton i njegova raspšljivost.
+to su samo neki primeri kvantnih svojstava prenošenja svetla kvantnim putem.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
-> - ZigBee je protokol za bežičnu komunikaciju, koj radi po IEEE 802.15.4 standardu. U pametnim mrežama (IOT) i M2M komunikacije, koristi se da bi upravljao 
-pametnim uređajima. ZigBee je bežični komunikacioni protokol namenjem ličnim mrežama s malom propustljivošću i malom potrošnjom energije. Ciljane primene 
+> - **ZigBee** je protokol za bežičnu komunikaciju, koj radi po IEEE 802.15.4 standardu. U pametnim mrežama (IOT) i M2M komunikacije, koristi se da bi upravljao 
+pametnim uređajima. **ZigBee** je bežični komunikacioni protokol namenjem ličnim mrežama s malom propustljivošću i malom potrošnjom energije. Ciljane primene 
 ZigBee-a su aplikacije koje zahtevaju umrežavanje velikog broja uređaja, prenos male količine podataka, malu potrošnju energije i visoku sigurnost prenosa. 
 Koristi se u automatizaciji, satelitskoj komunikaciji, medicini i slično. Pošto ima tu moć da brzo i sigurno hendluje malu informaciju, uglavnom se koristi 
 kao takozvani FFD (kordinator) ili FFD (usmerivač – ruter) ili kao FFD (terminator – poslednji u nizu) u čvorištima. Primer je komunikacija između satelita i 
-GSM kartice. Zašto baš ZigBee kvantonm svojstvu ? FFD može biti u superpoziciji kada se uspostavi komunikacija satelita i GSM-a. Takvo korišćenje ZigBee 
-protokola omogućava pravilnu konfiguraciju terena. Modulacijom ZigBee protokola moguće je napraviti niz fotona u jednom smeru, leptona i kvarkova u drugom 
+GSM kartice. Zašto baš **ZigBee** kvantonm svojstvu ? FFD može biti u superpoziciji kada se uspostavi komunikacija satelita i GSM-a. Takvo korišćenje **ZigBee** 
+protokola omogućava pravilnu konfiguraciju terena. Modulacijom **ZigBee** protokola moguće je napraviti niz fotona u jednom smeru, leptona i kvarkova u drugom 
 smeru i neraspršljivosti samog atoma. Kada se lepton nađe u superpoziciji on komunicira paralelno i vodoravno sa kvarkom. Onda se u toj situaciji foton 
 kreće multidimenziono. Međutim, kada krenemo da posmatramo prijemnik i predajnik, on nam vraća samo nulu i jedinicu. U slučaju da se dogodi neka greška u 
-superpoziciji za vreme transmitera i prijemnika, automatski dolazi do uništavanja opreme, tu se vraćamo na oksidaciju metalnih površina. ZigBee mora raditi 
+superpoziciji za vreme transmitera i prijemnika, automatski dolazi do uništavanja opreme, tu se vraćamo na oksidaciju metalnih površina. **ZigBee** mora raditi 
 na tačnom naponu bez odstupanja, da bi sve radilo kako treba. Oprema koja se koristi je vrlo osetljiva i potreban je jako oprezan pristup. U slučaju da sve 
 radi kako treba, ovo je jedan od najsigurnijih protokola u kvantnim dejstvima. Upotreba u pametnim kućama, samog kjubita će doneti revoluciju sa IPv7 
 protokolom (Protokol brisanog prostora putem lasera), koji će korisiti kjubit za kontrolisanje pametnih kuća.
@@ -257,15 +257,15 @@ Izvor: https://arsmagine.com/objavljivani-tekstovi/kvantna-masina/
 
 #### VEŠTAČKA INTELIGENCIJA I KVANTNI RAČUNARI
 
-> - Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u veštačkoj inteligenciji koje se mogu efikasnije rešiti 
-korišćenjem današnjih kvantnih računara. Veštačka inteligencija i kvantno računarstvo imaju mnogo zajedničkih karakteristika. Kvantno računarstvo
-može da obezbedi veštačku inteligenciju i algoritme mašinskog učenja sa brzinom obuke i računarskom snagom po nižoj ceni. S druge strane, veštačka 
-inteligencija može da obezbedi kvantnim računarima neophodne algoritme za ispravljanje grešaka. Neki od algoritama u AI koji su uspešno implementirani 
-na kvantnom računaru su i algoritmi nenadgledanog učenja (klasterizacija i analiza glavnih komponenti) i klasifikacija nadgledanog učenja, kao što 
-su mašine za podršku vektorima. Sama klasterizacija kvantno povezanih računara sa AI je nešto potpuno novo na tržištu i jako progresivno se širi. 
-Više ne možemo zaustaviti veštačku inteligenciju. Kada AI bude počela da se samoprogramira, to je već delo kvantnog računara bez nadgledanja bootmastera. 
-Isto tako, veštačka inteligencija će dati algoritme kvantim računarima, da bi poboljšali superpoziciju AI u polju kjubita. Ovo je jako opširna tema pa se
-mora NASTAVITI ...
+> - Ovaj rad će razmotriti osnovnu građu blokove kvantnog računarstva i razmotriće glavne primene u **veštačkoj inteligenciji** koje se mogu efikasnije rešiti 
+korišćenjem današnjih kvantnih računara. **Veštačka inteligencija** i kvantno računarstvo imaju mnogo zajedničkih karakteristika. Kvantno računarstvo
+može da obezbedi **veštačku inteligenciju** i algoritme mašinskog učenja sa brzinom obuke i računarskom snagom po nižoj ceni. S druge strane, **veštačka 
+inteligencija** može da obezbedi kvantnim računarima neophodne algoritme za ispravljanje grešaka. Neki od algoritama u **veštačkoj inteligenciji** koji su
+uspešno implementirani na kvantnom računaru su i algoritmi nenadgledanog učenja (klasterizacija i analiza glavnih komponenti) i klasifikacija nadgledanog
+učenja, kao što su mašine za podršku vektorima. Sama klasterizacija kvantno povezanih računara sa **veštačkom inteligencijom** je nešto potpuno novo na tržištu
+i jako progresivno se širi. Više ne možemo zaustaviti **veštačku inteligenciju**. Kada veštačka inteligencija bude počela da se samoprogramira, to je već
+delo kvantnog računara bez nadgledanja bootmastera. Isto tako, **veštačka inteligencija** će dati algoritme kvantim računarima, da bi poboljšali superpoziciju
+**veštačke inteligencije** u polju kjubita. Ovo je jako opširna tema pa se mora NASTAVITI ...
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
