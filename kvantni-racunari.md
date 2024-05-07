@@ -58,9 +58,9 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
 računara operacije se dešavaju standardnim procedurama, dok kvantni računar istu operaciju rešava iz superpozicije. Kako to ? Uzećemo brojeve 1, 2, 3, 4, 5 i 
-broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, x *n x n* i to je njegovo moguće stanje. Kvantni računar uzima svih 5, *n*
+broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, *n x n* i to je njegovo moguće stanje. Kvantni računar uzima svih 5,*n*
 brojeva u niz (stavlja ih u superpoziciju kjubita) i u istom trenutku ih sve množi sa 7. Kod ovako prostih operacija to deluje jednostavno, ali šta je on
-zapravo uradio ? Ubrzao je procesorsko vreme za *n* puta, samim tim u ovom slučaju ubrzao operaciju n puta. Kada su u pitanju složeniji zadaci tipa:
+zapravo uradio ? Ubrzao je procesorsko vreme za *n* puta, samim tim u ovom slučaju ubrzao operaciju *n* puta. Kada su u pitanju složeniji zadaci tipa:
 (1, 2, 3, 4, 5, *n*) i množioci (2, 3, 4, 5, 6, *n*) klasični računar će opet krenuti redom proceduralno i opet će mu trebati vreme, dok će kvantni računar
 staviti prve brojeve u jedan apstraktni niz, ali će isto i uraditi sa drugim brojevima (i od njih će napraviti apstraktni niz) i umesto računanja prvog niza
 sa svakim pojedinačno, on će superpozicijom drugog niza odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvoliće prvom nizu da se
@@ -135,7 +135,7 @@ Pristupa mu se Torom. Uglavnom se sve plaća Bitcoinima. Postoji trgovanje drogo
 bezbednost je i neki VPN.
 > - [3] Još dublji nivo weba je ***Dark web***. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
 postoje i još mnogo .onion linkova koji vode u užasne scene koje ne postoje ni u ljudskoj mašti.). Potreban je visok nivo zaštite. Od VPN, Tora, 
-Enkripcije, Modova, Botova. Botneta (reversibilni procesi) itd.
+Enkripcije, Modova, Botova... (reversibilni procesi) itd.
 > - [4] A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je ***Marijana Web***. Tamo ne postoje ograničenja. Tamo je pakao na
 zemlji. Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
