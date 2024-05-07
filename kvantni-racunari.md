@@ -58,14 +58,15 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
 računara operacije se dešavaju standardnim procedurama, dok kvantni računar istu operaciju rešava iz superpozicije. Kako to ? Uzećemo brojeve 1, 2, 3, 4, 5 i 
-broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7 x nxn i to je njegovo moguće stanje. Kvantni računar uzima svih 5 bojeva u niz 
-(stavlja ih u superpoziciju kjubita) i u istom trenutku ih sve množi sa 7. Kod ovako prostih operacija to deluje jednostavno, ali šta je on zapravo uradio ? 
-Ubrzao je procesorsko vreme, samim tim u ovom slučaju ubrzao operaciju 5 puta. Kada su u pitanju složeniji zadaci tipa: (1, 2, 3, 4, 5, n) i množioci (2, 3, 4, 5, 6, n) 
-klasični računar će opet krenuti redom proceduralno i opet će mu trebati vreme, dok će kvantni računar staviti prve brojeve u jedan apstraktni niz, ali će isto 
-i uraditi sa drugim brojevima (i od njih će napraviti apstraktni niz) i umesto računanja prvog niza sa svakim pojedinačno, on će superpozicijom drugog niza 
-odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvoliće prvom nizu da se pomnoži sa drugim i faktički će u jednoj operaciji odraditi 
-mnogo kompleksu operaciju koju bi bit proceduralno rešavao. Ovo nam govori da će kvantni bit zapravo rešavati svaku našu zamisao u apstraktnom smislu dok god 
-ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će biti ili nula ili jedinica kao konačna vrednost.
+broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, x *n x n* i to je njegovo moguće stanje. Kvantni računar uzima svih 5, *n*
+brojeva u niz (stavlja ih u superpoziciju kjubita) i u istom trenutku ih sve množi sa 7. Kod ovako prostih operacija to deluje jednostavno, ali šta je on
+zapravo uradio ? Ubrzao je procesorsko vreme za *n* puta, samim tim u ovom slučaju ubrzao operaciju n puta. Kada su u pitanju složeniji zadaci tipa:
+(1, 2, 3, 4, 5, *n*) i množioci (2, 3, 4, 5, 6, *n*) klasični računar će opet krenuti redom proceduralno i opet će mu trebati vreme, dok će kvantni računar
+staviti prve brojeve u jedan apstraktni niz, ali će isto i uraditi sa drugim brojevima (i od njih će napraviti apstraktni niz) i umesto računanja prvog niza
+sa svakim pojedinačno, on će superpozicijom drugog niza odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvoliće prvom nizu da se
+pomnoži sa drugim i faktički će u jednoj operaciji odraditi mnogo kompleksu operaciju koju bi bit proceduralno rešavao. Ovo nam govori da će kvantni
+bit zapravo rešavati svaku našu zamisao u apstraktnom smislu dok god ga mi ne posmatramo. Onog trenutka kada počnemo da ga posmatramo, output će biti ili
+nula ili jedinica kao konačna vrednost.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -135,11 +136,11 @@ bezbednost je i neki VPN.
 > - [3] Još dublji nivo weba je ***Dark web***. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
 postoje i još mnogo .onion linkova koji vode u užasne scene koje ne postoje ni u ljudskoj mašti.). Potreban je visok nivo zaštite. Od VPN, Tora, 
 Enkripcije, Modova, Botova. Botneta (reversibilni procesi) itd.
-> - [4] A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je ***Marijana Web***. Tamo ne postoje ograničenja. Tamo je pakao na zemlji. 
-Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
+> - [4] A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je ***Marijana Web***. Tamo ne postoje ograničenja. Tamo je pakao na
+zemlji. Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
-Marijana ima npr. *pet nivoa* koji su u istom redu paralelno. Svih *pet nivoa* su namenjeni proračunima. U svakom od tih *pet nivoa* postoje jos po *7 nivoa*. 
-*Pet nivota* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
+Marijana ima npr. *n* nivoa koji su u istom redu paralelno. Svih *n* nivoa su namenjeni proračunima. U svakom od tih *n* nivoa postoje jos po *n* nivoa. 
+*n* nivoa* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
 Može aktivirati 4, 5, 6, 7, n, nuklearnih bombi u samo jednoj milisekundi. Može čitati sadržaj bilo koje sobe unutar zidova kuće, stana, zgrade, objekta i 
 to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti bilo šta. Ljudi koji ga kontrolišu su vrlo moćni ljudi kojih je jako malo, 
 ali imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o 
