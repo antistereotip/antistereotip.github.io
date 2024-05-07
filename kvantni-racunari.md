@@ -39,7 +39,7 @@ fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve 
 #### KVANTNI SPIN:
 
 > - Većina kvantnih čestica se ponaša kao mali magneti. Ovo svojstvo nazivamo spin. Orijentacija okretanja je uvek usmerena ili potpuno gore ili potpuno dole,
-> - ali nikada između. Koristeći spinska stanja gore i dole, možemo izgraditi spin kubit. 0 = pokazuje gore, 1 = pokazuje nadole
+ali nikada između. Koristeći spinska stanja gore i dole, možemo izgraditi spin kubit. 0 = pokazuje gore, 1 = pokazuje nadole
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
