@@ -77,7 +77,8 @@ pojasnimo šta se tu zapravo dešava.
 
 #### MAKSVELOV DEMON
 
-> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi "pokazao da je drugi princip termodinamike siguran samo u statističkom smislu". Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv "Maksvelov demon". Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo "toplim" molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi.
+> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi "pokazao da je drugi princip termodinamike siguran samo u statističkom smislu". Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv "Maksvelov demon". Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo "toplim" molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi. Kakve veze ima kjubit sa maksvelovim demonom ? Super kompjuteri korste maksvelow demon da bi obeybedili
+hladjenje i zagrevanje TPU - Tensor Processing Unit (Kratak odgovor? Može da pruži između 15 i 30 puta veće performanse od trenutnih CPU-a i GPU-a. I što je još impresivnije – 30 do 80 puta veće performanse po vatu.) ... Za jedan kvark potrebna je velika TPU snaga u jednoj milisekundi.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -182,7 +183,7 @@ GSM kartice. Zašto baš **ZigBee** kvantonm svojstvu ? FFD može biti u superpo
 protokola omogućava pravilnu konfiguraciju terena. Modulacijom **ZigBee** protokola moguće je napraviti niz fotona u jednom smeru, leptona i kvarkova u drugom 
 smeru i neraspršljivosti samog atoma. Kada se lepton nađe u superpoziciji on komunicira paralelno i vodoravno sa kvarkom. Onda se u toj situaciji foton 
 kreće multidimenziono. Međutim, kada krenemo da posmatramo prijemnik i predajnik, on nam vraća samo nulu i jedinicu. U slučaju da se dogodi neka greška u 
-superpoziciji za vreme transmitera i prijemnika, automatski dolazi do uništavanja opreme, tu se vraćamo na oksidaciju metalnih površina. **ZigBee** mora raditi 
+superpoziciji za vreme transmitera i prijemnika, automatski dolazi do kratkog spoja, tu se vraćamo na oksidaciju metalnih površina. **ZigBee** mora raditi 
 na tačnom naponu bez odstupanja, da bi sve radilo kako treba. Oprema koja se koristi je vrlo osetljiva i potreban je jako oprezan pristup. U slučaju da sve 
 radi kako treba, ovo je jedan od najsigurnijih protokola u kvantnim dejstvima. Upotreba u pametnim kućama, samog kjubita će doneti revoluciju sa IPv7 
 protokolom (Protokol brisanog prostora putem lasera), koji će korisiti kjubit za kontrolisanje pametnih kuća.
