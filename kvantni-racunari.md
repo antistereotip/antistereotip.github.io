@@ -38,12 +38,8 @@ fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve 
 
 #### KVANTNI SPIN:
 
-> - Veoma bitna odlika kvantnog računara je osobina elektrona koja se naziva spin. Spin je osobina elektorna koja omogućava da se isti vrti oko svoje ose. 
-To kjubitu daje multidimenzionalnost kada se čestica nađe u superpoziciji. Prema binarnoj logici određena su dva stanja, tačnije smera spina i to suprotna, 
-gde je jedan nula a drugi jedinica. Uz pomoć spina možemo kreirati kompjutersku memoriju. Kvantni računar koj ima 500 kjubita može imati 2 na 500 stanja 
-istovremeno (n qbit – 2 na n stanja). Mogućnosti ovih računara su prevelike i najsloženije matematičke probleme mogu rešiti mnogo brzo. Neuporedivo brže 
-od klasičnih računara. Jedan od primera je Šorov kvantni algoritam koj je možda i najbrži način za faktorisanje brojeva i on bi bez ikakvih problema 
-razbio svaku RSA šifru koja je danas u upotrebi. Otprilike, kvantni računar bi razotkrio sve tajne ovoga sveta za samo dvadeset minuta.
+> - Većina kvantnih čestica se ponaša kao mali magneti. Ovo svojstvo nazivamo spin. Orijentacija okretanja je uvek usmerena ili potpuno gore ili potpuno dole,
+> - ali nikada između. Koristeći spinska stanja gore i dole, možemo izgraditi spin kubit. 0 = pokazuje gore, 1 = pokazuje nadole
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
