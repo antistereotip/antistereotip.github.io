@@ -77,7 +77,7 @@ pojasnimo šta se tu zapravo dešava.
 
 #### MAKSVELOV DEMON
 
-> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi „pokazao da je drugi princip termodinamike siguran samo u statističkom smislu“. Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv „Maksvelov demon“. Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo „toplim“ molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi.
+> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi "pokazao da je drugi princip termodinamike siguran samo u statističkom smislu". Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv "Maksvelov demon". Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo "toplim" molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
