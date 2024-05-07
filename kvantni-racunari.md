@@ -58,7 +58,7 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
 računara operacije se dešavaju standardnim procedurama, dok kvantni računar istu operaciju rešava iz superpozicije. Kako to ? Uzećemo brojeve 1, 2, 3, 4, 5 i 
-broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, *n x n* i to je njegovo moguće stanje. Kvantni računar uzima svih 5,*n*
+broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, *n x n* i to je njegovo moguće stanje. Kvantni računar uzima svih 5, *n*
 brojeva u niz (stavlja ih u superpoziciju kjubita) i u istom trenutku ih sve množi sa 7. Kod ovako prostih operacija to deluje jednostavno, ali šta je on
 zapravo uradio ? Ubrzao je procesorsko vreme za *n* puta, samim tim u ovom slučaju ubrzao operaciju *n* puta. Kada su u pitanju složeniji zadaci tipa:
 (1, 2, 3, 4, 5, *n*) i množioci (2, 3, 4, 5, 6, *n*) klasični računar će opet krenuti redom proceduralno i opet će mu trebati vreme, dok će kvantni računar
