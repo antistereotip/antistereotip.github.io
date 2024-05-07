@@ -58,9 +58,9 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
 računara operacije se dešavaju standardnim procedurama, dok kvantni računar istu operaciju rešava iz superpozicije. Kako to ? Uzećemo brojeve 1, 2, 3, 4, 5 i 
-broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7 i to je njegovo moguće stanje. Kvantni računar uzima svih 5 bojeva u niz 
+broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7 x nxn i to je njegovo moguće stanje. Kvantni računar uzima svih 5 bojeva u niz 
 (stavlja ih u superpoziciju kjubita) i u istom trenutku ih sve množi sa 7. Kod ovako prostih operacija to deluje jednostavno, ali šta je on zapravo uradio ? 
-Ubrzao je procesorsko vreme, samim tim u ovom slučaju ubrzao operaciju 5 puta. Kada su u pitanju složeniji zadaci tipa: 1, 2, 3, 4, 5 i množioci 2, 3, 4, 5, 6, 
+Ubrzao je procesorsko vreme, samim tim u ovom slučaju ubrzao operaciju 5 puta. Kada su u pitanju složeniji zadaci tipa: (1, 2, 3, 4, 5, n) i množioci (2, 3, 4, 5, 6, n) 
 klasični računar će opet krenuti redom proceduralno i opet će mu trebati vreme, dok će kvantni računar staviti prve brojeve u jedan apstraktni niz, ali će isto 
 i uraditi sa drugim brojevima (i od njih će napraviti apstraktni niz) i umesto računanja prvog niza sa svakim pojedinačno, on će superpozicijom drugog niza 
 odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvoliće prvom nizu da se pomnoži sa drugim i faktički će u jednoj operaciji odraditi 
@@ -76,20 +76,7 @@ pojasnimo šta se tu zapravo dešava.
 
 #### MAKSVELOV DEMON
 
-> - Moguće stanje kvantnog bita je definisano spinovima, superpozicijom i mešanjem kjubita. Imamo spin (gore, dole) – smer. Imamo superpoziciju 
-(0, 1, 0, 01, 00, 10, 11) i imamo mešanje (gore 1, 0, 01, 00, 10, 11) (i) (dole, 1, 0, 01, 00, 10, 11). Ovo je najprostija postavka kjubita. 
-Sad sve ovo što vidite uzmite i promešajte u svim mogućim smerovima i dimenzijama i dobićete kvantni bit u superpoziciji kao rezultat. Ono što se 
-desilo je to da kvantni bit može biti bilo koja vrednost koja postoji u prostoru i vremenu (kao moguće stanje). Ovo znači da su pravila kvantne 
-fizike jako nestabilna jer je u stanju superpozicije jedne čestice narušen bilo koj princip termodinamike (Prvi termodinamički zakon o održanju 
-energije – kao primer). Primer, teorijski bar za sada, ali tačna postavka je Maksvelov demon, gde postoje dve posude u jednoj posudi a između njih 
-neka pregrada i u sredini vrata. I imamo demona koj ta vrata otvara i zatvara. Pošto principi termodinamike funkcionišu u autonomnom stanju, demon 
-narušava tu autonomiju i više nema šta da se opovrgava niti da se narušava postulat termodinamike. Ali uzmimo za primer da možemo hipotetički 
-automatizovati taj proces otvaranja i zatvaranja vrata i ostaviti posudu u autonomnom stanju. U te dve posude imamo neke čestice, jedne su brže 
-(imaju veću temperaturu) a druge su sporije (imaju manju temperaturu), a pošto demon stoji sa strane van autonomije same posude, on zapisuje 
-brzinu svake čestice. Sve brže čestice iz jedne posude (gde su sporije čestice) premešta u posudu gde su brže čestice, a sporije čestice (gde su brže čestice) 
-premešta u posudu gde su sporije čestice. Time se dobija veća temperatura u posudi gde su brže čestice a tamo gde su sporije čestice, dobija se još manja 
-temperatura. Ovim postupkom smo narušili prvi zakon termodinamike jer takav zakon govori da telo koje ima manju temperaturu ako se nađe pored tela koje 
-ima veću temperaturu, između njih će doći do razmene energije (Toplije će grejati hladnije). U ovom slučaju dešava se paradoks Maksvelovog demona.
+> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi „pokazao da je drugi princip termodinamike siguran samo u statističkom smislu“. Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv „Maksvelov demon“. Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo „toplim“ molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -113,18 +100,10 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 
 #### ŠERDINGEROVA MAČKA
 
-> - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment 
-ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa 
-zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva (i 00000000 i 11111111), u zavisnosti od prethodnih nasumičnih 
-događaja. Iako je prvobitni „eksperiment” bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je 
-takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje 
-(nem. Verschränkung). Čemu ovo tačno služi u kvantnim računarima. Eksperiment nad kjubitom sa ovom teorijom bi glasio ovako: Posmatramo bajt na primer. 
-On je u kutiji ozračen radioaktivnim svojstvom. Otvaramo kutiju i njegova superpozicija je ili 8 nula ili 8 jedinica, što bi značilo da postoji faktor 
-posmatranja ovog spleta događaja. U jednoj prilici kvantni računar bi bio pokrenut i sve bi se dešifrovalo za 20 minuta (Čitav web, Svi nivoi weba, od 
-vidljivog do darkweba, deepweba i marijane), dok u drugoj prilici gde bi bilo 8 nula sve bi bilo opet šifrovano. Paradox ove teorije je što superpozicija 
-gubi kvantno svojstvo ukoliko je mačka mrtva ili živa. Izloženost radijaciji bi verovatno mačku ubilo, međutim, mačka je moguće i preživela radijaciju. 
-Od čega to zavisi ? Od posmatranja. Kao što smo rekli, kjubit je vrlo stidljiva čestica. NE voli da se posmatra. Stoga mačka je i dalje živa ili mrtva. 
-I tu više nema paradoxa.
+> - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment
+ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa
+zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva, u zavisnosti od prethodnih nasumičnih događaja. Iako je prvobitni
+"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung).
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -168,17 +147,6 @@ ovakvoj temi se može napisati knjiga debela 15000 stranica.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
-#### KVANTNA SVOJSTVA NISKIH I VISOKIH STRUJA.
-
-> - Primer Akumulatora na 12 V: Tanke žice prenose napon koji je čoveku bezbedan za organizam bez strujnih posledica. Ali probajte da stavite žicu velikog obima 
-i promeniće se voltaža sa 12 V na nešto što je baš i nepodnošljivo za ljudski organizam. Šta se tu dešava ? U pitanju je velika probojnost malog napona.
-Evo jednog primera u satelitskoj pratnji vozila koje sam lično iskusio: Jednom prilikom sam zaboravio unimer. Postoje u osnovi 3 žice - bela-kontakt -
-crvena - Napon - Crna - Masa. Žice su vezane na akumulator. Kako bih proverio napon žica, uhvatio sam presečen kraj crvene žice i presečen kraj crne žice. 
-Sve što sam osetio je blagi udar struje koji je čak i prijatan za ljudsko telo. Drugi primer: Direktno na akumulator sam stavio debelu žicu i izmerio 
-instrumentom napon i začudio me ishod. Struja je bila mnogo jača. Šta se tu zapravo dešava ? Atom traži prostor. NASTAVIĆE SE ...
-
-> Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
-
 #### MODULACIJA I FREKVENTNI KVANTNI MODULATORI:
 
 > - **Modulacija** je proces u kojem signal informacije menja drugi signal više frekvencije, takozvani nosilac, da bi se omogućio prenos. Nosilac ili noseća 
@@ -186,9 +154,6 @@ frekvencija je obično sinusoidalni talas stvoren u oscilatoru. I nosilac i sign
 na neki način. **Modulirani** nosilac je tad pojačan i poslat u antenu ili kabl za prenos. U prijemniku, antena prima **modulirani** signal koji je zatim pojačan 
 i procesiran. Šalje se u **demodulator** (detektor) na čijem izlazu se dobija originalni signal informacije. E sada, zašto je nama bitna **modulacija** u kvantim 
 računarima ?
-
-LINK: https://antistereotip.github.io/data/pics/gif/Amfm3-en-de.gif
-
 > - E sada, **modularna** kvantna čestica ima mnogo više talasa nego obična moduilacija. Zapravo kvantna frekvencija je sveobuhvatna. Postoji svaki vid 
 *talasanja* u kjubitu. Dalje - (**Modulacija** i visoke, niske, mikro i makro frekvencije) Vrste **modulacije**: Amplitudna modulacija **(AM)**, Frekventna
 modulacija **(UKT)**, Fazna modulacija **(PM)** ... Zašto samo osnovne vrste **modulacije** ? Postoje i kvantne **modulacije**. Primer: Optički prenosnik
