@@ -24,15 +24,15 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
 #### KVANTNI RAČUNARI
 
-> - Kvantni računari funkcionalno koriste kvantna svojstva mikročestica. Kod klasičnih računara informacija se bazično predstavlja u obliku bitova (0 i 1) gde jedna 
-informacija u jednom trenutku može biti ili 0 ili 1. Kod kvantnih kompjutera osnovne jedinice operacije su kjubiti (qbit), koji koriste kvantni fenomen superpozicije 
-i druga kvantna svojstva za operaciju nad informacijama. To znači da kjubit može imati više stanja nule i jedinice (0, 1, 01, 00, 10, 11), jer svaki od tih stanja 
-se može nalaziti u superpoziciji, što kjubitu daje multidimenzionalnost. Zanimljivo kod kvantnog bita je zapravo to da on može imati moguće stanje 
-(0, 1, 01, 00, 10, 11) samo i isključivo samo ukoliko ga ne posmatramo. Onog trenutka kada ga počnemo posmatrati on se transformiše u stanje običnog bita, 
-gde mu je moguće stanje samo nula ili jedinica. To znači da se kvantni pororačuni odvijaju izvan naše percepcije, a onog trenutka kada se i mi uključimo u 
-zahtevanje te informacije koju je kvantni računar obradio, mi zapravo dobijamo samo običan bit kao output. Po nekom mišljenju, ovo se dešava izmeđuostalog 
-i zato što ljudski mozak i telo nisu spremni ili naviknuti na stanje superpozicije čestice. Za ovaj fenomen može se razumljivo reći da je u pitanju 
-stidljivost samog kjubita..
+> - Digitalni računar skladišti i obrađuje informacije koristeći bitove, koji mogu biti 0 ili 1. Fizički, bit može biti bilo šta što ima dve različite konfiguracije:
+jednu predstavljenu sa 0, a drugu sa 1. To može biti sijalica koja je uključena ili isključena, novčić koji je glava ili rep, ili bilo koji drugi sistem sa dve
+različite i prepoznatljive mogućnosti. U modernom računarstvu i komunikacijama, bitovi su predstavljeni odsustvom ili prisustvom električnog signala, koji
+kodiraju 0 i 1 respektivno. Kvant bajtuje bilo koji bit napravljen od kvantnog sistema, poput elektrona ili fotona. Baš kao i klasični bitovi, kvantni bit
+mora imati dva različita stanja: jedno koje predstavlja 0 i jedno koje predstavlja 1. Za razliku od klasičnog bita, kvantni bit takođe može postojati
+u stanjima superpozicije, biti podvrgnut nekompatibilnim merenjima, pa čak i biti zapetljan sa drugim kvantnim bitovima. Sposobnost iskorištavanja moći
+superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačijim i mnogo moćnijim od klasičnih bitova. Da bismo napravili kvantne računare i
+druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
+fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kubita
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
