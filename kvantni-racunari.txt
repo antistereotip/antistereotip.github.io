@@ -8,6 +8,8 @@
 >
 >  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
+![](qbit1.png)
+
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!! 
@@ -20,6 +22,8 @@
 
 LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
+ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
+
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNI RAČUNARI
@@ -27,19 +31,21 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 > - Digitalni računar skladišti i obrađuje informacije koristeći bitove, koji mogu biti 0 ili 1. Fizički, bit može biti bilo šta što ima dve različite konfiguracije:
 jednu predstavljenu sa 0, a drugu sa 1. To može biti sijalica koja je uključena ili isključena, novčić koji je glava ili rep, ili bilo koji drugi sistem sa dve
 različite i prepoznatljive mogućnosti. U modernom računarstvu i komunikacijama, bitovi su predstavljeni odsustvom ili prisustvom električnog signala, koji
-kodiraju 0 i 1 respektivno. Kvant bajtuje bilo koji bit napravljen od kvantnog sistema, poput elektrona ili fotona. Baš kao i klasični bitovi, kvantni bit
-mora imati dva različita stanja: jedno koje predstavlja 0 i jedno koje predstavlja 1. Za razliku od klasičnog bita, kvantni bit takođe može postojati
+kodiraju 0 i 1 respektivno. Kvant bajtuje bilo koji bit napravljen od kvantnog sistema, poput elektrona ili fotona. Baš kao i klasični bitovi, kvantni bit (kjubit)
+mora imati dva različita stanja: jedno koje predstavlja 0 i jedno koje predstavlja 1. Za razliku od klasičnog bita, kvantni bit (kjubit) takođe može postojati
 u stanjima superpozicije, biti podvrgnut nekompatibilnim merenjima, pa čak i biti zapetljan sa drugim kvantnim bitovima. Sposobnost iskorištavanja moći
 superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačijim i mnogo moćnijim od klasičnih bitova. Da bismo napravili kvantne računare i
 druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
-fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kubita
+fizičke sisteme da deluju kao kjubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kjubita.
+
+![](qbit2.png)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNI SPIN:
 
 > - Većina kvantnih čestica se ponaša kao mali magneti. Ovo svojstvo nazivamo spin. Orijentacija okretanja je uvek usmerena ili potpuno gore ili potpuno dole,
-> - ali nikada između. Koristeći spinska stanja gore i dole, možemo izgraditi spin kubit. 0 = pokazuje gore, 1 = pokazuje nadole
+ali nikada između. Koristeći spinska stanja gore i dole, možemo izgraditi spin kubit. 0 = pokazuje gore, 1 = pokazuje nadole
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -58,9 +64,9 @@ u istoriji uradio. Za kompleksne operacije i proračune sa faktorisanjem, tamo g
 operacija, potrebno je mnogo procedura, a samim tim i velika procesorska moć. Uzimajući u obzir da je silicijum ograničena materija svojim hemijskim sastavom, 
 taj matetrijal već ulazi u svoju crvenu zonu i prosto ne može da izađe na kraj sa složenom matematikom. Taj problem rešava kvantni računar. Dakle, kod običnog 
 računara operacije se dešavaju standardnim procedurama, dok kvantni računar istu operaciju rešava iz superpozicije. Kako to ? Uzećemo brojeve 1, 2, 3, 4, 5 i 
-broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, x *n x n* i to je njegovo moguće stanje. Kvantni računar uzima svih 5, *n*
+broj 7 kao množilac. Klasični računar radi sledeće: 1 x 7, 2 x 7, 3 x 7, 4 x 7, 5 x 7, *n x 7* i to je njegovo moguće stanje. Kvantni računar uzima svih 5, *n*
 brojeva u niz (stavlja ih u superpoziciju kjubita) i u istom trenutku ih sve množi sa 7. Kod ovako prostih operacija to deluje jednostavno, ali šta je on
-zapravo uradio ? Ubrzao je procesorsko vreme za *n* puta, samim tim u ovom slučaju ubrzao operaciju n puta. Kada su u pitanju složeniji zadaci tipa:
+zapravo uradio ? Ubrzao je procesorsko vreme za *n* puta, samim tim u ovom slučaju ubrzao operaciju *n* puta. Kada su u pitanju složeniji zadaci tipa:
 (1, 2, 3, 4, 5, *n*) i množioci (2, 3, 4, 5, 6, *n*) klasični računar će opet krenuti redom proceduralno i opet će mu trebati vreme, dok će kvantni računar
 staviti prve brojeve u jedan apstraktni niz, ali će isto i uraditi sa drugim brojevima (i od njih će napraviti apstraktni niz) i umesto računanja prvog niza
 sa svakim pojedinačno, on će superpozicijom drugog niza odrediti zajednički indeks koj će zapravo biti kvantno moguće stanje i dozvoliće prvom nizu da se
@@ -77,7 +83,8 @@ pojasnimo šta se tu zapravo dešava.
 
 #### MAKSVELOV DEMON
 
-> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi „pokazao da je drugi princip termodinamike siguran samo u statističkom smislu“. Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv „Maksvelov demon“. Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo „toplim“ molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi.
+> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi "pokazao da je drugi princip termodinamike siguran samo u statističkom smislu". Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv "Maksvelov demon". Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo "toplim" molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi. Kakve veze ima kjubit sa maksvelovim demonom ? Super kompjuteri korste maksvelow demon da bi obeybedili
+hladjenje i zagrevanje TPU - Tensor Processing Unit (Kratak odgovor? Može da pruži između 15 i 30 puta veće performanse od trenutnih CPU-a i GPU-a. I što je još impresivnije – 30 do 80 puta veće performanse po vatu.) ... Za jedan kvark potrebna je velika TPU snaga u jednoj milisekundi.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -135,12 +142,12 @@ Pristupa mu se Torom. Uglavnom se sve plaća Bitcoinima. Postoji trgovanje drogo
 bezbednost je i neki VPN.
 > - [3] Još dublji nivo weba je ***Dark web***. U ovo spadaju sledeći pojmovi (Crvene sobe - Red Rooms, Snaff pornografija - Najužasnije pornografske scene koje 
 postoje i još mnogo .onion linkova koji vode u užasne scene koje ne postoje ni u ljudskoj mašti.). Potreban je visok nivo zaštite. Od VPN, Tora, 
-Enkripcije, Modova, Botova. Botneta (reversibilni procesi) itd.
-> - [4] A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je ***Marijana Web***. Tamo ne postoje ograničenja. Tamo je pakao na zemlji. 
-Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
+Enkripcije, Modova, Botova... (reversibilni procesi) itd.
+> - [4] A ono što mali broj ljudi zapravo zna je najdublji i najjeziviji deo Weba. To je ***Marijana Web***. Tamo ne postoje ograničenja. Tamo je pakao na
+zemlji. Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
-Marijana ima npr. *n* nivoa* koji su u istom redu paralelno. Svih *n* nivoa su namenjeni proračunima. U svakom od tih *n* nivoa* postoje jos po *n* nivoa*. 
-*n* nivota* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
+Marijana ima npr. *n* nivoa koji su u istom redu paralelno. Svih *n* nivoa su namenjeni proračunima. U svakom od tih *n* nivoa postoje jos po *n* nivoa. 
+*n* nivoa* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
 Može aktivirati 4, 5, 6, 7, n, nuklearnih bombi u samo jednoj milisekundi. Može čitati sadržaj bilo koje sobe unutar zidova kuće, stana, zgrade, objekta i 
 to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti bilo šta. Ljudi koji ga kontrolišu su vrlo moćni ljudi kojih je jako malo, 
 ali imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o 
@@ -182,7 +189,7 @@ GSM kartice. Zašto baš **ZigBee** kvantonm svojstvu ? FFD može biti u superpo
 protokola omogućava pravilnu konfiguraciju terena. Modulacijom **ZigBee** protokola moguće je napraviti niz fotona u jednom smeru, leptona i kvarkova u drugom 
 smeru i neraspršljivosti samog atoma. Kada se lepton nađe u superpoziciji on komunicira paralelno i vodoravno sa kvarkom. Onda se u toj situaciji foton 
 kreće multidimenziono. Međutim, kada krenemo da posmatramo prijemnik i predajnik, on nam vraća samo nulu i jedinicu. U slučaju da se dogodi neka greška u 
-superpoziciji za vreme transmitera i prijemnika, automatski dolazi do uništavanja opreme, tu se vraćamo na oksidaciju metalnih površina. **ZigBee** mora raditi 
+superpoziciji za vreme transmitera i prijemnika, automatski dolazi do kratkog spoja, tu se vraćamo na oksidaciju metalnih površina. **ZigBee** mora raditi 
 na tačnom naponu bez odstupanja, da bi sve radilo kako treba. Oprema koja se koristi je vrlo osetljiva i potreban je jako oprezan pristup. U slučaju da sve 
 radi kako treba, ovo je jedan od najsigurnijih protokola u kvantnim dejstvima. Upotreba u pametnim kućama, samog kjubita će doneti revoluciju sa IPv7 
 protokolom (Protokol brisanog prostora putem lasera), koji će korisiti kjubit za kontrolisanje pametnih kuća.
