@@ -8,6 +8,8 @@
 >
 >  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
+![](qbit1.png)
+
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!! 
@@ -20,6 +22,8 @@
 
 LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
+ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
+
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
 #### KVANTNI RAČUNARI
@@ -27,12 +31,14 @@ LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 > - Digitalni računar skladišti i obrađuje informacije koristeći bitove, koji mogu biti 0 ili 1. Fizički, bit može biti bilo šta što ima dve različite konfiguracije:
 jednu predstavljenu sa 0, a drugu sa 1. To može biti sijalica koja je uključena ili isključena, novčić koji je glava ili rep, ili bilo koji drugi sistem sa dve
 različite i prepoznatljive mogućnosti. U modernom računarstvu i komunikacijama, bitovi su predstavljeni odsustvom ili prisustvom električnog signala, koji
-kodiraju 0 i 1 respektivno. Kvant bajtuje bilo koji bit napravljen od kvantnog sistema, poput elektrona ili fotona. Baš kao i klasični bitovi, kvantni bit
-mora imati dva različita stanja: jedno koje predstavlja 0 i jedno koje predstavlja 1. Za razliku od klasičnog bita, kvantni bit takođe može postojati
+kodiraju 0 i 1 respektivno. Kvant bajtuje bilo koji bit napravljen od kvantnog sistema, poput elektrona ili fotona. Baš kao i klasični bitovi, kvantni bit (kjubit)
+mora imati dva različita stanja: jedno koje predstavlja 0 i jedno koje predstavlja 1. Za razliku od klasičnog bita, kvantni bit (kjubit) takođe može postojati
 u stanjima superpozicije, biti podvrgnut nekompatibilnim merenjima, pa čak i biti zapetljan sa drugim kvantnim bitovima. Sposobnost iskorištavanja moći
 superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačijim i mnogo moćnijim od klasičnih bitova. Da bismo napravili kvantne računare i
 druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
-fizičke sisteme da deluju kao kubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kubita
+fizičke sisteme da deluju kao kjubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kjubita.
+
+![](qbit2.png)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
