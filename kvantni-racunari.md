@@ -8,8 +8,6 @@
 >
 >  *Sve što trebate znati o* **superpozicijama u kvantnoj mehanici, fizici i kompjuterima**.
 
-![](qbit1.png)
-
 #### KVANTNA SVOJSTVA (QBIT - KJUBIT)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!! 
@@ -18,11 +16,13 @@
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
+![](media/qbit1.png)
+
 #### KVANTNA MEHANIKA. KOJ MI TO K**** ZNAMO ? OBAVEZNO ODGLEDATI FILM, LINK JE ISPOD.
 
-LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
+###### LINK: https://www.youtube.com/watch?v=FWZCBj6lhCc&ab_channel=AktivistNo2
 
-ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
+###### ZANIMLJIV RESURS: https://www.quantum-inspire.com/kbase/full-adder/
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -38,7 +38,7 @@ superpozicije, interferencije i preplitanja čini kubite fundamentalno drugačij
 druge kvantne informacione tehnologije, potrebni su nam kvantni objekti koji će delovati kao kubiti. Naučnici su naučili da iskoriste i kontrolišu mnoge
 fizičke sisteme da deluju kao kjubiti. Ovo nam omogućava da uskladimo zahteve različitih kvantnih tehnologija sa prednostima svake vrste kjubita.
 
-![](qbit2.png)
+![](media/qbit2.png)
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -83,8 +83,10 @@ pojasnimo šta se tu zapravo dešava.
 
 #### MAKSVELOV DEMON
 
-> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi "pokazao da je drugi princip termodinamike siguran samo u statističkom smislu". Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv "Maksvelov demon". Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo "toplim" molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi. Kakve veze ima kjubit sa maksvelovim demonom ? Super kompjuteri korste maksvelow demon da bi obeybedili
-hladjenje i zagrevanje TPU - Tensor Processing Unit (Kratak odgovor? Može da pruži između 15 i 30 puta veće performanse od trenutnih CPU-a i GPU-a. I što je još impresivnije – 30 do 80 puta veće performanse po vatu.) ... Za jedan kvark potrebna je velika TPU snaga u jednoj milisekundi.
+![](media/Maxwell.png)
+
+> - U filozofiji termalne i statističke fizike, Maksvelov demon je misaoni eksperiment škotskog fizičara Džejmsa Klerka Maksvela kako bi "pokazao da je drugi princip termodinamike siguran samo u statističkom smislu". Misaoni eksperiment demonstrira Maksvelovu ideju objašnjavajući način na koji bi mogao da se prekrši drugi princip termodinamike. U eksperimentu, zamišljena posuda je podeljena na dve komore zidom koji je izolator na kome se nalaze vratanca koja može da otvara ili zatvara izmišljeni entitet koji je dobio naziv "Maksvelov demon". Hipotetički demon otvara i zatvara vrata na takav način da dozvoljava samo "toplim" molekulima gasa da prođu u odabranu komoru, čime se ona postepeno zagreva dok se druga komora hladi. Kakve veze ima kjubit sa maksvelovim demonom ? Super kompjuteri korste maksvelow demon da bi obezbedili
+hlađenje i zagrevanje TPU - Tensor Processing Unit (Kratak odgovor ? Može da pruži između 15 i 30 puta veće performanse od trenutnih CPU-a i GPU-a. I što je još impresivnije – 30 do 80 puta veće performanse po vatu.) ... Za jedan kvark potrebna je velika TPU snaga u jednoj milisekundi.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -108,10 +110,13 @@ proces u pospunosti i tu je zapravo moć kvante fizike.
 
 #### ŠERDINGEROVA MAČKA
 
+![](media/Sredingerova-macka.png)
+
 > - Šredingerova mačka je misaoni eksperiment, uobičajeno opisan kao paradoks, koji je osmislio austrijski fizičar Ervin Šredinger 1935. godine. Eksperiment
 ukazuje na ono što je on smatrao problemom kopenhagenske interpretacije kvantne mehanike, primenjene na svakodnevne objekte, koji rezultuje sukobom sa
 zdravim razumom. U ovom eksperimentu se predstavlja da mačka može biti i živa i mrtva, u zavisnosti od prethodnih nasumičnih događaja. Iako je prvobitni
-"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung).
+"eksperiment" bio imaginaran, slični principi su bili istraživani i korišćeni u praktičnoj primeni. Mačkin paradoks je takođe često bio predmet teorijskih rasprava i interpretacija kvantne mehanike. Razvijajući ovaj eksperiment, Šredinger je skovao termin uplitanje (nem. Verschränkung). Kjubit se takođe može sagledati iz tog ugla.
+Dok posmatramo mačku (običan bit), ona je mrtva, ali čim prestanemo da je posmatramo ona je mrtva (Kjubit).
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
 
@@ -147,7 +152,7 @@ Enkripcije, Modova, Botova... (reversibilni procesi) itd.
 zemlji. Marijana radi na kvantnim proračunima i poseduje najviše kvantih računara. Sve što postoji na zemli, tajno ili javno i na nebu i na vasioni - Marijana 
 to zna. Marijani ne može da se pristupi običnim računarima, već samo preko kjubita. Ona koristi kjubit kao sredstvo plaćanja. Na taj način ona hrani sebe.
 Marijana ima npr. *n* nivoa koji su u istom redu paralelno. Svih *n* nivoa su namenjeni proračunima. U svakom od tih *n* nivoa postoje jos po *n* nivoa. 
-*n* nivoa* je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
+*n* nivoa je samo metafora - ali u realnom vremenu. Svaki nivo u svakoj paralelnoj sobi može recimo navoditi navoditi rakete visokog i niskog dometa. 
 Može aktivirati 4, 5, 6, 7, n, nuklearnih bombi u samo jednoj milisekundi. Može čitati sadržaj bilo koje sobe unutar zidova kuće, stana, zgrade, objekta i 
 to u realnom vremenu kao da je u objektu. Kod ovakvog Weba nemoguće je sakriti bilo šta. Ljudi koji ga kontrolišu su vrlo moćni ljudi kojih je jako malo, 
 ali imaju ogromnu armiju ratnika koji rade na proračunima. Čitavo zlo čovečanstva, kao i luciferov presto je u Marijana Webu. Da stavimo tačku na ovo jer o 
@@ -177,6 +182,50 @@ tehnologija (Tačka na više tačaka brisanim prostorom) - Tu je potrebno raspr�
 to su samo neki primeri kvantnih svojstava prenošenja svetla kvantnim putem.
 
 > Sledeće objašnjenje, molimo Vas da držite pažnju !!! Vežite pojas, jer polećemo !!!
+
+#### cQASM: kvantni programski jezik
+
+> - QASM je nastao kao jezik za formalno definisanje kvantnog kola za prikazivanje slika u svrhu vizuelizacije. Kako se kvantno računanje razvijalo, jezik je usvojen
+kao način da se specifikuju kvantna kola kao ulaz za kvantni računar. QASM program deklariše klasične bitove i kjubite, opisuje operacije (gejtove) na tim kjubitima i
+merenja potrebna da bi se dobio klasični rezultat pregledom kjubita. Mnoge varijante KASM-a su ugledale svetlost od svog nastanka kao jezik za označavanje za
+generisanje slika. Kuantum Inspire koristi cQASM 1.0. Kad god se na ovom sajtu pominje QASM ili cQASM, to se odnosi na cQASM 1.0 osim ako nije izričito navedeno
+drugačije. cQASM se koristi za opisivanje relativno jednostavnih kola, što je dobro za trenutnu generaciju kvantnih računara. U budućnosti će biti potreban viši nivo apstrakcije da bi se suočili sa milijardama kubita potrebnih da se napravi praktični kvantni računar.
+
+##### Osnovni primer
+
+> Počnimo sa primerom gde kreiramo stanje zvona da bismo stekli osećaj za jezik:
+
+```
+# a basic cQASM example
+qubits 2
+.prepare
+    prep_z q[0:1]
+.entangle
+    H q[0]
+    CNOT q[0], q[1]
+.measurement
+    measure_all
+```
+
+##### Kjubit aliasi
+> Da bi cQASM bio čitljiviji, moguće je dodeliti mnemoničko ime kjubitu ili klasičnom bitu. Za ovo se koristi instrukcija mape:
+
+```
+# version 1.0
+qubits 2
+map q[0], Control
+map q[1], Target
+map b[0], MeasuredControl
+
+prep_z Control
+prep_z Target
+H Control
+measure_z Control
+c-X MeasuredControl, Target
+measure_z Target
+```
+
+Izvor: https://www.quantum-inspire.com/kbase/cqasm/
 
 #### ZIGBEE KVANTNI NAČIN SLANJA PORUKE
 
