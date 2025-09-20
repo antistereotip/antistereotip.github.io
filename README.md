@@ -1,1 +1,2 @@
 # antistereotip.github.io
+################# IDEMOOOOOOOOOOOOOOOOO ##################
