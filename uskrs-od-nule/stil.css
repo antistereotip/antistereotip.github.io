@@ -1,0 +1,140 @@
+/**************************************
+CSS STILOVI
+**************************************/
+body {margin: 0; padding: 0;background-image: url("img/pattern22.png");background-repeat: repeat;color: #fff;}
+/**************************************
+UBACENA SENKA
+**************************************/
+*{margin:0;padding: 0;}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {display: block;}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #666;
+  border:1px solid #444;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  cursor: grab;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.wrapper {width: 100%; padding: 0; float: left; color: black;}
+
+.active {
+  /*background-color: #04AA6D;*/
+  background-color:#29cedf;
+}
+
+.content {width: 96;padding: 2%;}
+
+.contentleft {width:46%; padding: 2%; float: left;}
+
+.contentright {width:46%; padding: 2%; float: left;}
+
+.hidden {display: none;}
+
+.marquee {padding-bottom: 1%; padding-top: 1%; font-size: 1.2em; background-color: #555; color: #17f118;}
+
+.modern {width: 40%;}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+.form-group input[type="text"],
+.form-group input[type="email"],
+.form-group textarea {
+    width: calc(100% - 20px); /* Adjust for padding */
+    padding: 10px;
+    border: 1px solid #898989;
+    border-radius: 0;
+    box-sizing: border-box; /* Include padding in width */
+}
+
+.form-group textarea {
+    resize: vertical; /* Allow vertical resizing */
+}
+
+button[type="submit"] {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 0px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 30%;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+
+.ex8 {
+-webkit-animation: cssAnimation 2s 1 ease;
+-moz-animation: cssAnimation 2s 1 ease;
+-o-animation: cssAnimation 2s 1 ease;
+}
+@-webkit-keyframes cssAnimation {
+from { -webkit-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -webkit-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+@-moz-keyframes cssAnimation {
+from { -moz-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -moz-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+@-o-keyframes cssAnimation {
+from { -o-transform: rotate(0deg) scale(0.100) skew(0deg) translate(0px); }
+to { -o-transform: rotate(0deg) scale(0.999) skew(0deg) translate(0px); }
+}
+
+@media screen and (max-width: 780px) {
+    .wrapper {width: 96%; padding: 2%; float: left;}
+    /* nav {float: left:width: 98%;padding: 1%;font-size: 0.8em;} */
+    .hidden {display: block;width: 98%;padding:1%;}
+    .hidden select {padding: 1%;width: 98%;}
+    nav {display: none;}
+    .inp {width:80%;}
+
+    .levo {width: 98%; padding: 1%;float: left;}
+    .desno {width: 98%; padding: 1%;float: left;}
+    .levo img {height: 150px !important;}
+    .desno img {height: 150px !important;}
+	.contentleft {width: 98%; padding: 1%;}
+	.contentright {width: 98%; padding: 1%;}
+}	
+@media screen and (max-width: 480px) {
+
+    .levo {width: 98%; padding: 1%;float: left;}
+    .desno {width: 98%; padding: 1%;float: left;}
+    .levo img {height: 200px !important;}
+    .desno img {height: 200px !important;}
+	.contentleft {width: 98%; padding: 1%;}
+	.contentright {width: 98%; padding: 1%;}
+}
